@@ -6,3 +6,18 @@ channel = "stable-24_05"
 
 [deployment]
 run = ["sh", "-c", "npm run dev"]
+
+[workflows]
+runButton = "Run Dev Server"
+
+[[workflows.workflow]]
+name = "Run Dev Server"
+author = 38964327
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "npm run dev"
+
+[[ports]]
+localPort = 3000
+externalPort = 80
