@@ -49,7 +49,6 @@ export function generateMidiFile(
   // Add notes
   pattern.forEach((state, i) => {
     if (state === 'on') {
-      // Note on
       events.push(
         0x00, // Delta time
         0x90, // Note on, channel 0
@@ -57,7 +56,7 @@ export function generateMidiFile(
         100 // Velocity
       );
       
-      // Note off (after duration)
+      // Note off
       events.push(
         TICKS_PER_16TH, // Delta time (16th note duration)
         0x80, // Note off, channel 0
@@ -65,19 +64,23 @@ export function generateMidiFile(
         0 // Velocity
       );
     } else {
-      // Rest
-      events.push(TICKS_PER_16TH);
+      events.push(
+        TICKS_PER_16TH, // Delta time for rest
+        0x90, // Note on (silent)
+        60, // Middle C
+        0 // Zero velocity = silent
+      );
     }
   });
 
   // End of track
   events.push(0x00, 0xFF, 0x2F, 0x00);
 
-  // Calculate track length
+  // Calculate track chunk size (not including MTrk and size bytes)
   const trackLength = events.length;
   const trackLengthBytes = [
-    (trackLength >> 24) & 0xFF,
-    (trackLength >> 16) & 0xFF,
+    0x00,
+    0x00,
     (trackLength >> 8) & 0xFF,
     trackLength & 0xFF
   ];
