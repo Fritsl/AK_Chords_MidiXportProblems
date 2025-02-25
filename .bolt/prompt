@@ -1,0 +1,37 @@
+We are making a system where the user easily with a few clicks can create awesome full arrangement chord progressions that match with his arrangement - and download these chord progressions as MIDI.
+
+Chords are named with:
+1) Root from {C,C#/Db,D,D#/Eb,E,F,F#/Gb,G,G#/Ab,A,A#/Bb,B}.
+2) Basic triads: C (major), Cm, Cdim/C°, Caug/C+, Csus2, Csus4, C5.
+3) 6/add: C6, Cm6, C(add9), Cm(add9), C6/9.
+4) 7ths: C7, Cmaj7, Cm7, Cdim7/C°7, Cm7b5, Cm(maj7).
+5) 9ths: C9, Cm9, Cmaj9.
+6) 11ths: C11, Cm11, Cmaj11.
+7) 13ths: C13, Cm13, Cmaj13.
+8) Alterations: C7(b9,#9,b5,#5,b13), etc.
+9) Slash chords: C/E, C/G, etc.
+We default #/b by key context; user may override.
+
+
+Visual Style: Flat design, no shadows or rounded corners.
+Layout: Grid-based (or Flexbox) with an 8px spacing unit.
+Typography: Clean sans-serif font; use a clear hierarchy for headings (24–32px, bold), subheadings (18–24px, semi-bold), and body text (14–16px, regular).
+Color Palette:
+Base:
+Primary Background: #1F1F1F
+Secondary Surface: #2A2A2A
+Tertiary Surface: #2E2E2E
+Highlights:
+Primary Accent (for main CTAs): #FFC107
+Secondary Accent: #03A9F4
+Tertiary Accent: #4CAF50
+Text:
+Primary Text: #E0E0E0
+Secondary Text: #B0B0B0
+Disabled: #808080
+Interactive Elements:
+Primary CTA button with primary accent (#FFC107) and a subtle hover state (10-15% color shift).
+Secondary CTA button with secondary accent (#03A9F4) and similar hover effects.
+Implementation: Use React (functional components & hooks) and a theming solution (styled-components, Emotion, or CSS Modules) to centralize styles.
+
+Never add any text you are not strictly instructed to. Never edit files or parts you are not specifically asked to edit. keep the chords lookup table in a separate file.

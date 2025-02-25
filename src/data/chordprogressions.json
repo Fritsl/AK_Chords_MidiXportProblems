@@ -1,0 +1,2426 @@
+{
+    "Pop": {
+        "Mainstream Pop": {
+            "A": "I - vi - IV - V",
+            "B": "IV - I - V - vi - IV - I - V - IV",
+            "C": "vi - IV - I7 - vii\u00b0 - IV - V7 - III7 - vi",
+            "R": "ii - V - vi - iii - IV - I7 - IV - V",
+            "P": "vi - IV - I - V",
+            "I": "I - V - vi - IV",
+            "O": "I - vi - IV - V - I - IV - V - ii - V",
+            "S": "I - vi - IV - Vsus4 - I - Vsus4"
+        },
+        "Emotional Pop": {
+            "A": "i - IV - V - IV - ii - vi - IV - V",
+            "B": "vi - IV - I - V7",
+            "C": "vi - IV - I - V - IV - V - vi7 - II7 - V7",
+            "R": "vi - IV - ii - V7",
+            "P": "ii - V - vi - IV",
+            "I": "I - vi - IV - V",
+            "O": "I - vi - IV - V - ii - V - I",
+            "S": "ii - V - I - IV - vii\u00b0 - I - II7 - V7"
+        },
+        "Soft Rock Ballad": {
+            "A": "I - vi - IV - V",
+            "B": "IV - vi - II7 - V7",
+            "C": "ii - V - vi - IV - ii7 - V7 - I - IV - V7 - vi - ii - V - I",
+            "R": "vi - IV - II7 - V7",
+            "P": "ii - V - vi - IV - I - IV - V7",
+            "I": "I - vi - IV - V7",
+            "O": "IV - V - vi - IV - V - I",
+            "S": "I - vi - IV - I - V - I - IV - ii - V - IV - iii - vi - II7 - V7 - I"
+        },
+        "New Wave Progression": {
+            "A": "I - V - vi - IV",
+            "B": "IV - vi - I - IV - V",
+            "C": "ii - V7 - I - vi - IV - V7",
+            "R": "vi - IV - II - V7",
+            "P": "ii - V - IV - IV7",
+            "I": "I - IV - vi - V7",
+            "O": "IVmaj7 - vii\u00b0 - III7 - vi - II7 - V7 - Isus4 - I",
+            "S": "I - IV - vi - II7 - v\u00b07 - IV - V7 - I"
+        },
+        "Funk-Influenced Pop": {
+            "A": "I7 - IV9 - II7 - V13 - IV7 - I7",
+            "B": "I9 - ii7 - V13 - vi9 - IV7 - I7#9",
+            "C": "ii7 - V7 - vi7 - II7 - V7 - I7 - IV7 - V7",
+            "R": "ii7 - V7 - vi7 - IV7 - ii7 - V7 - I7 - IV7",
+            "P": "ii7 - V7 - IVmaj7 - V7",
+            "I": "I7 - IVmaj7 - ii7 - V7 - I7 - IV7 - ii7 - V9",
+            "O": "ii7 - V7 - I7 - IV7 - V7 - I7",
+            "S": "ii7 - V9 - Isus4 - I7b9"
+        },
+        "Classic Bubblegum Pop": {
+            "A": "I - IV - V - IV - I - ii - V - I",
+            "B": "I - VI - IV - V",
+            "C": "II7 - V7 - I6 - IV - V7 - II7 - V7 - I",
+            "R": "ii7 - V7 - IV - Iaug - vi - II7 - V7",
+            "P": "ii - V - IV - I7",
+            "I": "I - IV - ii - V",
+            "O": "I - IV - V - ii - IV - I - IV - V - I",
+            "S": "I - vi - IV - V - I - vi - IV - I - ii - V"
+        },
+        "Modern K-Pop Beat": {
+            "A": "i - IV - V - IV - ii - V - I",
+            "B": "IV - V - vi - IV - V - I6/9",
+            "C": "ii - V7 - III - vi - IV - I - V7 - IV",
+            "R": "vi - IV - ii7 - V7",
+            "P": "vi - IV - I - V7",
+            "I": "i - IV - vii\u00b0 - III - vi - ii - V7 - I",
+            "O": "vi - IV - I - V",
+            "S": "ii - V7 - Isus4 - I7 - IV - vii\u00b0 - I"
+        },
+        "J-Pop Idol Progression": {
+            "A": "I - ii - V7 - IV - IV7 - iii - vi - V7",
+            "B": "ii - V7 - I - IV - iii - vi - ii - V7",
+            "C": "ii - V - vii\u00b0 - IImaj7 - IV - vi - V7 - I6",
+            "R": "ii - V7 - vi - IV - iii - vi - II7 - V7",
+            "P": "ii - V7 - vi - IV7",
+            "I": "I - vi - IV - V",
+            "O": "IV - V - vi - IImaj7 - V7 - IV - I - IV - V7",
+            "S": "ii - V7 - I - vi - IV - V7 - I - IV - V7 - I - IV - V7b9"
+        },
+        "Synth-Pop Hybrid": {
+            "A": "i - VI - IV - V",
+            "B": "I - V - vi - IV - I - IV - V7 - I",
+            "C": "ii - V7 - I - iii - IV - iv - I7 - IV - V7",
+            "R": "ii - V7 - IV - I - vi - II7 - V7",
+            "P": "vi - IV - I - V7",
+            "I": "I - VI - IV - IIsus4 - II - V7",
+            "O": "vi - IV - I - V - vi - IV - V - V7",
+            "S": "i - VI - III - VII - i - IV - V7 - i"
+        },
+        "K-Pop Rap Fusion": {
+            "A": "i - VI7 - II7 - iv - V7 - i - III7 - VI7",
+            "B": "vi - IV - V - iii - IV - ii7 - V",
+            "C": "vi - ii - V7 - iii - VImaj7 - IV - V7 - I",
+            "R": "vi - IV - ii7 - V7 - iii - vi - IV - ii7 - V7",
+            "P": "ii - V7 - vi - IV - iii7 - vi - IV - ii7 - V7",
+            "I": "i - iv - V7 - vi - V7",
+            "O": "vi - IV - I - V - vi - IV - ii - V7",
+            "S": "vi - IV - ii - V7 - Isus4 - vii\u00b07 - I7 - IVsus2"
+        },
+        "Electronic K-Pop Build-up": {
+            "A": "i - VI - III7 - VII - iim7 - V7 - VI - IVmaj7",
+            "B": "vi - IV - I - V - IV - vi - V - I7",
+            "C": "ii7 - V7 - vi - IV - ii7 - V7 - Isus4 - I",
+            "R": "ii - V - VI - III7 - IV - ii7 - V - I",
+            "P": "ii - V - vi - IV - I - V7 - IV - V7",
+            "I": "I - vi - IV - V",
+            "O": "ii - V - I - IV - V7 - I - vi - IV - V7 - ii",
+            "S": "I - vi - IV - V7 - vii\u00b0 - II7 - V7 - I"
+        },
+        "Glitchcore Pop": {
+            "A": "i - III7 - IV - vii\u00b07 - vi - V7",
+            "B": "VI - II7 - IV - V7",
+            "C": "i - VI7 - III - VI7 - II7 - V7 - IV - iv\u00b07",
+            "R": "ii7 - V7 - vi - IV - I - IV - V7 - I",
+            "P": "ii - V7 - vi - IV - ii7 - IImaj7 - V7 - ii7",
+            "I": "i - VI7 - III - v - i - ii\u00b07 - VIaug - IV7",
+            "O": "ii - V7 - I - iv - vii\u00b0 - IV - V7 - I",
+            "S": "i - IV - V7 - vi - IV - ii7 - V7 - i"
+        },
+        "Bubblegum Bass": {
+            "A": "I - iii7 - IV - ii7 - V - vi - IV - V",
+            "B": "IV - v - I - V7 - vi - IV - I - V7",
+            "C": "vi - IV - I7 - V - vi - IV - ii7 - V7",
+            "R": "ii7 - V7 - IVmaj7 - I7 - viim7b5 - iii7 - vi7 - II7",
+            "P": "ii - V7 - I7 - IVmaj7 - vii\u00b07 - V7",
+            "I": "I - iii7 - IV - ii7 - V7 - IV - I9 - V7",
+            "O": "I - vi - IV - V - IV - ii - V - I",
+            "S": "I - vi - IV - Iaug - im7 - V7 - IV - ii\u00b07 - V7"
+        },
+        "Distorted Vocal Pop": {
+            "A": "i - IV - V - i - VI - III - VII - iv",
+            "B": "IV - vi - I - V",
+            "C": "vi - IV - I - V7 - viidim7 - IV - ii7 - V7",
+            "R": "iv - VImaj7 - iii7 - IV - ii\u00b0 - V7 - I",
+            "P": "ii - VI7 - iv - V7",
+            "I": "i - VI - III - VII7",
+            "O": "ii - V - I - IV - vi - IV - I - V7",
+            "S": "i - IV - V - vii\u00b0"
+        },
+        "Dreamy Indie Chords": {
+            "A": "i - VII - VI - v7",
+            "B": "IV - iv - I - V7",
+            "C": "ii7 - V9 - IVmaj7 - vii\u00b0 - I7b9",
+            "R": "ii7 - IV7 - I - V - vi6 - IV - Vsus4 - Iadd9",
+            "P": "ii - V - I - VI7 - ii - V - I7",
+            "I": "I - vi - II7 - IVmaj7",
+            "O": "vi - IV - I - V7 - ii - V7 - IV - I",
+            "S": "ii7 - IVmaj7 - vi7 - V7sus4 - IVadd9 - I6/9"
+        },
+        "Lo-Fi Indie Beat": {
+            "A": "i - VII - III - VII - IV - VII - i - VII",
+            "B": "vi - IIm7 - V7 - Imaj7",
+            "C": "ii7 - V7 - I - VI7 - ii7 - V7 - I - IVmaj7",
+            "R": "vi - IV - ii - V7",
+            "P": "ii - vi - IV - V7",
+            "I": "i - VII - iv - iv7",
+            "O": "iv - VImaj7 - II7sus4 - vm7 - IVmaj7 - Iadd9 - ii7 - V7",
+            "S": "ii7 - V7 - I6 - iii7 - ii7 - IVmaj7"
+        },
+        "Synth-Driven Indie Pop": {
+            "A": "i - VII - III - VI - IV - i - IV - VII",
+            "B": "I - vi - IV - V - IV - I - vi - II7",
+            "C": "ii - V7 - vi - IV - iii - vii\u00b0 - IV - V7",
+            "R": "ii - V7 - vi - IV - V7 - I",
+            "P": "iv - iim7 - V - V7",
+            "I": "i - VI - III - VII",
+            "O": "vi - IV - I - V",
+            "S": "ii - vi - IV - Isus4 - I7"
+        }
+    },
+    "Rock & Alternative": {
+        "Rock & Roll Shuffle": {
+            "A": "I - IV - V - IV - I - IV - V7 - I",
+            "B": "I - IV - V - IV - IV - I7 - IV - V7",
+            "C": "ii - V7 - I - IV - vi - V7 - IV - V7",
+            "R": "i - IV - V - ii\u00b07 - V7 - I",
+            "P": "ii - V - I - IV7",
+            "I": "I - IV - V - IV",
+            "O": "I - IV - V7 - I - ii - V7 - IV - I",
+            "S": "i - i - vi7 - IV"
+        },
+        "Folk Rock": {
+            "A": "I - IV - ii - V7",
+            "B": "I - V - vi - IV",
+            "C": "ii - V7 - vi - IV - I - IV - V7 - I",
+            "R": "vi - IV - I - V7",
+            "P": "ii - V - I - IV - vi - IV - V",
+            "I": "I - ii - IV - V7",
+            "O": "vi - IV - I - V - IV - I - IV - V",
+            "S": "i - IV - V7 - IV - i"
+        },
+        "Modern Rock": {
+            "A": "i - VI - IV - V7",
+            "B": "I - IV - V - ii - I - V - IV - ii",
+            "C": "ii7 - V7 - I - IV - vi7 - II7 - V7 - I7",
+            "R": "ii - V7 - I - IV - vi - V7 - IV - I",
+            "P": "vi - IV - V - iii",
+            "I": "i - iv - V - iv",
+            "O": "I - vi - IV - V - ii - V7 - I",
+            "S": "i - iv - V - iv - ii - V7"
+        },
+        "Glam Rock": {
+            "A": "I - IV - V - IV - I - ii - V - I",
+            "B": "I - IV - ii - V7 - I - IV - V7 - I",
+            "C": "ii - V7 - I - vi - IV - ii - V7 - Iaug",
+            "R": "vi - II - V7 - iii7 - IV",
+            "P": "vi - IV - V - I7",
+            "I": "I - IV - V - IV - I - ii - V7 - IV - I",
+            "O": "I - IV - V - I - vi - IV - V - I-VII7",
+            "S": "i - V7 - iv - ii\u00f8 - V7 - i+ - IV"
+        },
+        "Alternative Rock Ballad": {
+            "A": "i - iv - V - iv",
+            "B": "I - IV - ii - V7",
+            "C": "vi - II7 - ii - V7 - VI7 - III7 - II7 - V7",
+            "R": "vi - IV - ii - V7",
+            "P": "ii - V - vi - IV7",
+            "I": "i - IV - vi - V7",
+            "O": "vi - IV - I - V7",
+            "S": "iv - i - V7 - vi - ii\u00b0 - IIsus2 - V7"
+        },
+        "Dark Synthwave Rock": {
+            "A": "i - VII - VI - VII7",
+            "B": "i - iv - VII - VI7 - v - i - IV - VI7",
+            "C": "vi - ii\u00b07 - III - VII7 - vii\u00b07 - i - III - v7",
+            "R": "vi - VII - i - iv - V7",
+            "P": "vi - iii7 - IV - V7",
+            "I": "i - iv - VIIM7 - vii\u00b07 - VI - i - II7 - iv - VI - ii\u00b07",
+            "O": "i - VI - VII - i - VI - VII - i - iv - III - ii\u00b07",
+            "S": "i - VI - i - iv7 - iv#9 - IV - VI - I7"
+        },
+        "Math Rock": {
+            "A": "I - ii7 - VImaj7 - IVmaj7 - ii7 - v\u00b0 - I7 - IV7",
+            "B": "ii - V7 - I - II7 - IVaug - iii - VI7 - Iaug",
+            "C": "ii7 - IVmaj7 - vii\u00b07 - I6",
+            "R": "vi - i - V7 - III - ii - IImaj7 - IV - v - VImaj7 - vii\u00b07 - I9",
+            "P": "iim7 - V7 - II6/9 - IVsus4 - vii\u00b07",
+            "I": "i - IV - VII - iv - Iaug - VI7 - ii\u00f8 - V7",
+            "O": "IVmaj7 - vii\u00b0 - I6 - V7 - III7 - ii - V7#9 - Iaug",
+            "S": "i - v\u00b0 - IV - ii\u00b07 - vii\u00b0 - V7 - i"
+        },
+        "Lo-Fi Garage Rock": {
+            "A": "i - IV - III7 - iv - ii - V - i",
+            "B": "I - IV - V - IV - ii - V - I - IV",
+            "C": "ii - IV7 - II7 - vi - IV - Iaug",
+            "R": "vi - iv - I - V7",
+            "P": "iv - V - VI - iv - V7",
+            "I": "i - IV - vii\u00b0 - IV",
+            "O": "I - IV - V - IV - I - ii - V - I",
+            "S": "iv - I - V7 - I - ii - IV - V - I"
+        },
+        "Psychedelic Rock": {
+            "A": "i - VI7 - iv - VII - iib5 - VI7 - iv - VII",
+            "B": "IV - I7 - IV - V7 - VI - IIImaj7 - IV - V7",
+            "C": "ii7 - V7 - iii - VI7 - ii7 - V7 - I7 - VIaug7",
+            "R": "IV - iv - i - VI7 - ii - V7 - I",
+            "P": "ii - V7 - i - VI7 - IIaug - iv - V7",
+            "I": "i - VII - IV - ii\u00b0",
+            "O": "iv - VII7 - I - vi - IV7 - vii\u00b0 - I - IV7 - I - I+ - II - I+ - III7 - IV - IVmaj7 - I6/9",
+            "S": "I - II - vii\u00b0 - I7 - V7#9"
+        },
+        "Progressive Rock": {
+            "A": "i - VI - III7 - VIImaj7 - IV - iv - II - V7",
+            "B": "IVmaj7 - ii7 - V7 - vi - I9 - IV - V7 - ii7 - V7 - Iaug7",
+            "C": "ii7 - V7 - III7 - vi - IV7 - I7 - ii7 - V7",
+            "R": "ii7 - V7 - III - v\u00b07 - IImaj7 - VImaj7 - II7 - V7",
+            "P": "vi - IV - I - V7",
+            "I": "im7 - iv - I - V7 - IIIsus4 - vi - V7 - im7",
+            "O": "vi - II7 - V7 - II7 - VImaj7 - IV7 - I6/9 - IVadd9 - I",
+            "S": "i - VI - ii\u00b0 - vii - Iaug - IV7 - V+ - iv - i7"
+        },
+        "Southern Rock": {
+            "A": "I - IV - V - ii - IV - I - V - IV",
+            "B": "I - IV - V - IV - I - II - V7 - I",
+            "C": "vi - ii - V7 - I - IV - V7 - IV - I",
+            "R": "I - IV7 - ii - V7",
+            "P": "IV - V - vi - V7",
+            "I": "I - IV - V - IV",
+            "O": "I - IV - V - IV - II - V - I",
+            "S": "IV - I - ii - V7"
+        },
+        "Indie Post-Punk Groove": {
+            "A": "i - IV - V - iv",
+            "B": "I - vi - IV - V7",
+            "C": "ii - V7 - vi - IV - ii - V7 - iii7 - IVmaj7",
+            "R": "ii - V7 - iii - IV - I7 - vi - IV - V7",
+            "P": "iv - V7 - i - II7",
+            "I": "i - IV - ii - V7",
+            "O": "ii - IV - vi - I6 - iii - vi - V7 - IV",
+            "S": "i - iv - v - i - ii\u00f8 - vii\u00b0 - i"
+        },
+        "Classic Doo-Wop Cadence": {
+            "A": "I - vi - IV - V",
+            "B": "I - VI - IV - V7",
+            "C": "II - V - I - IV - V7 - I",
+            "R": "ii - V7 - I - vi - IV - V7 - I",
+            "P": "II - V - IIm7 - V7",
+            "I": "I - vi - IV - V",
+            "O": "I - vi - IV - V",
+            "S": "I - vi - ii - V7"
+        },
+        "50s Progression": {
+            "A": "I - vi - IV - V",
+            "B": "IV - vi - V - III7",
+            "C": "ii - V7 - vi - IV - V7",
+            "R": "II - V - vi - IV - V7",
+            "P": "ii - V7 - IV - I7",
+            "I": "I - vi - IV - V",
+            "O": "I - vi - IV - V7",
+            "S": "I - vi - IV - V7"
+        },
+        "Shoegaze": {
+            "A": "I - vi - IV - V7",
+            "B": "vi - IV - ii - V7 - ii - IV - I - V7",
+            "C": "vi - IV - ii - V7 - IV - i",
+            "R": "vi - II7 - iii - IV - V7 - Iaug",
+            "P": "ii - V - IV - vii\u00b0",
+            "I": "i - IV - VII - iv",
+            "O": "i - IV - ii - V7 - i - iv - ii - V7",
+            "S": "i - ii - viii\u00b0 - iv - i"
+        },
+        "Grunge": {
+            "A": "i - VI - III - VII7",
+            "B": "I - VI - IV - V7",
+            "C": "ii - V7 - vi - IV7 - ii7 - V7",
+            "R": "IV - iv - I - V7",
+            "P": "iv - i - V7 - iv",
+            "I": "i - IV - V - i",
+            "O": "i - iv - V - iii - ii - i",
+            "S": "i - iv - v - iv"
+        },
+        "Epic Rock": {
+            "A": "i - VI - III - VII7",
+            "B": "IV - I - V7 - IV - vii\u00b0 - I6 - V7 - I",
+            "C": "vi - IV - I - V7 - II7 - vii\u00b07 - I6/9",
+            "R": "ii - V - vi - IV - V7 - ii - V - I",
+            "P": "ii - V7 - I - IV - V7 - vi - II7 - V7",
+            "I": "I - V - vi - IV",
+            "O": "I - IV - V7 - I - vi - IV - ii - I6 - IV - V7 - I",
+            "S": "i - iv - V - i"
+        },
+        "Post-Rock": {
+            "A": "i - iv - VI - iii7",
+            "B": "IV - iv - I - V7 - VI - ii - V7 - I",
+            "C": "VI - IV - I - V7 - IIsus4 - ii - V7 - IVmaj7",
+            "R": "vi - IV - I - v - IV - vm7 - ii - I7",
+            "P": "IImaj7 - iiim7 - IV - IV7",
+            "I": "i - IV - iv - I - ii - IV - iv - I",
+            "O": "vi - IV - I - V - ii - IV - I - III7 - vi",
+            "S": "ii - vi - IV - I - vii\u00b0"
+        },
+        "Indie Rock": {
+            "A": "i - IV - vii\u00b0 - IV - ii - V - IV",
+            "B": "IV - V - vi - IV - V - I",
+            "C": "vi - IV - V - ii - I7",
+            "R": "ii - V7 - IV - vii\u00b07",
+            "P": "ii - V - I - IV",
+            "I": "i - IV - vii\u00b0 - IV - i - VI - VII - VI",
+            "O": "I - IV - vi - ii - V - I - IV - V - I",
+            "S": "ii - vi - IV - IVaug"
+        },
+        "Power Rock": {
+            "A": "I - IV - V - IV",
+            "B": "I - IV - V - IV - I - V - IV - IV",
+            "C": "I - V7 - ii - vi - IV - V7 - ii - V7#9",
+            "R": "vi - IV - V - iv7 - I7",
+            "P": "IV - V - i - VI7 - ii - V7",
+            "I": "I5 - IV5 - V5 - IV5",
+            "O": "I - IV - V7 - II7 - I6/9",
+            "S": "I5 - IV5 - V5 - IV5 - I5"
+        }
+    },
+    "Disco": {
+        "Classic Disco Groove": {
+            "A": "I - ii - IV - V7",
+            "B": "IV - IV7 - I - V - IV - IV7 - I - II7",
+            "C": "II7 - V7 - II7 - IVmaj7 - V7 - Imaj7 - IVmaj7 - II7",
+            "R": "II7 - V7 - Imaj7 - IVmaj7 - II7 - V7",
+            "P": "ii - V7 - I - IV - ii - V7 - I - IVmaj7",
+            "I": "I - IV - V - IV",
+            "O": "ii - V7 - I - IV - ii - V7 - I - vi - IV - V7 - I",
+            "S": "I7 - IV7 - V7 - IV7 - I7"
+        },
+        "French filter Disco": {
+            "A": "IIm7 - V7 - Imaj7 - IV7",
+            "B": "ii7 - V7 - I - IVmaj7 - vii\u00b07 - iii7 - IVmaj7 - V7",
+            "C": "ii7 - V7 - I - IVmaj7 - viim7b5 - II7 - V7 - I",
+            "R": "ii7 - V7 - IVmaj7 - I7 - vi7 - ii7 - V7 - I7",
+            "P": "ii7 - V7 - vi - Vaug7",
+            "I": "I - IV - I7 - IV - V7 - IV - I7 - IV",
+            "O": "I - IV - V7 - I - ii - V7 - I - I7 - IV - I - IV - ii7 - V7 - I",
+            "S": "I - I - IV6/9 - V7sus4 - V7 - I"
+        }
+    },
+    "Electronic": {
+        "Synthwave Retro": {
+            "A": "i - IV - VII - iv - III - VI - II - V7",
+            "B": "vi - IV - I - V",
+            "C": "ii - V7 - VI - VImaj7 - ii7 - VImaj7 - IV7 - iv7 - I7 - VI - VImaj7 - ii7 - iv7 - II7",
+            "R": "ii - V - I - IV - vii\u00b0 - III - VI - II7",
+            "P": "ii - V - vi - IVmaj7",
+            "I": "i - iv - VII - iv",
+            "O": "i - VI - III - VII - i - VI - VII - i",
+            "S": "i - IV - V - VI - ii - IV - V - i"
+        },
+        "Cowbell Phonk Groove": {
+            "A": "i7 - IV7 - v - IV7",
+            "B": "i7 - IV7 - v\u00b07 - IVmaj7 - i7",
+            "C": "ii7 - V7 - III7 - vi7 - IV7 - II7 - V7 - I7",
+            "R": "vi - ii7 - V7 - IVmaj7 - I7",
+            "P": "ii - V7 - VI - iv7",
+            "I": "i7 - iv7 - VII7 - III7",
+            "O": "i7 - iv7 - v7 - i7 - viim7b5 - V7 - i7",
+            "S": "i - iv - v - iv"
+        },
+        "Dubstep": {
+            "A": "i - VII - VI - VII",
+            "B": "i - VI - VII - i - VI - iv - VII",
+            "C": "i - VI - VII - II7 - VI - VImaj7 - i - iv - VI - V7 - i",
+            "R": "vi - IV - I - IV - i - II - V - II",
+            "P": "ii - VI - vii\u00b0 - V7",
+            "I": "i - IV - vi - V",
+            "O": "i - VI - VII - iv",
+            "S": "ii - v - III - VI - VII - v - III - i"
+        },
+        "Techno": {
+            "A": "i - i - VII - VII",
+            "B": "i - iv - III - II",
+            "C": "i - iv - i - iv - VI7 - V7 - iv - i",
+            "R": "i - VI - iv - VII",
+            "P": "iv - VI7 - iii - II7 - ii - V7",
+            "I": "i - i - iv - iv",
+            "O": "i7 - IV7 - v7 - IV7 - i7 - ii\u00f8 - i7",
+            "S": "i - vii\u00b0 - IV - vii\u00b0"
+        },
+        "Darkstep": {
+            "A": "i - VI - III7 - VII7",
+            "B": "i - VI - III - VII7",
+            "C": "i - iv - V7 - vii\u00b0 - i7 - V7 - iv - i\u0438\u043c7b5 - i",
+            "R": "i - vi - IV - iv\u00b07 - i",
+            "P": "iv - i - v\u00b0 - vii\u00b07 - i",
+            "I": "i - i\u00b0 - iv - v - iii - vi - i - iv7 - v7",
+            "O": "i - i\u00b0 - V7 - i",
+            "S": "i - vi\u00b0 - iv - ii\u00b07"
+        },
+        "Progressive House": {
+            "A": "i - VI - III - VII",
+            "B": "I - VI - IV - V - III - IV - V - VI7",
+            "C": "ii - V - I - vii\u00b07 - IImaj7 - V7 - I",
+            "R": "vi - IV - I - V7 - IV - vi - II - V7",
+            "P": "ii - V - I7 - VI - ii - V - IVmaj7 - I7",
+            "I": "i - VI - VII - IV",
+            "O": "vi - IV - I - V - vi - iv - I - IV - V - ii - IV - V - i - IV - ii - V - vii\u00b0 - iv - ii - IV - V - I",
+            "S": "i - vi - IV - ii7"
+        },
+        "Drift Phonk Bassline": {
+            "A": "i - VI7 - VII - iv7",
+            "B": "i - VII7 - iv - ii\u00b07 - VI7 - vii - i",
+            "C": "ii7 - IV7 - vi - iii7 - V7 - II7 - VI7 - V7#9",
+            "R": "iv - vii\u00b0 - iii - VI7 - ii - V7 - I",
+            "P": "ii7 - V7 - IV - I7b9",
+            "I": "i - VII7 - iv - VII7",
+            "O": "i7 - iv7 - v7 - IV7 - VII7 - iv7 - ii\u00f8 - V7b9",
+            "S": "i7 - VII - iv - VII7"
+        },
+        "Breakcore": {
+            "A": "i - vii\u00b0 - V7 - i",
+            "B": "i - VI - VIImaj7 - v - IVdim",
+            "C": "i - ii7 - VImaj7 - I7#9",
+            "R": "i - vii\u00b0 - IV - V7 - ii\u00b07 - I7#9 - vii\u00b0 - i",
+            "P": "i - VI - II7 - v7 - VI - IV7 - ii\u00b07 - V7",
+            "I": "i - iv - V7 - iv",
+            "O": "iim7 - vsus4 - i - IV7 - vim7 - V7 - Iaug7 - ii7b5 - IImaj7 - iiim9 - VI#5b9",
+            "S": "i - i\u00b0 - ii - ii\u00b0"
+        },
+        "Roller Groove": {
+            "A": "i - VII - iv - III7",
+            "B": "IV - IV7 - I - vm7 - II7 - V7 - I6/9 - IVmaj7",
+            "C": "vi - IVmaj7 - III7#9 - IV - V7 - iv - II7b9 - V7#5",
+            "R": "iim7 - V7 - I6 - IVsus2 - vim7 - II7 - V7",
+            "P": "ii - V7 - I - IVmaj7",
+            "I": "i - iv - V7 - iv",
+            "O": "iii7 - vi - IVadd9 - ii7 - V7 - I6 - IV - I",
+            "S": "ii - V7 - i - IV7"
+        },
+        "Tech House Pulse": {
+            "A": "i - VII - i - VII",
+            "B": "i7 - VII7 - IV7 - VII7",
+            "C": "ii - V7 - vi - IVmaj7 - V7 - iim7",
+            "R": "i - VI - VII - iv - VI - i",
+            "P": "iim7 - V7 - iim7 - V7#9",
+            "I": "iim7 - v7 - iiim7 - VI7",
+            "O": "i - iv - v - iv - i",
+            "S": "i - iv - V7 - iv"
+        },
+        "Atmospheric DnB": {
+            "A": "i - III7 - vi - IVmaj7",
+            "B": "i - IV - V - i - IV - V - i - ii - V - IV",
+            "C": "iim7 - V7#9 - viim7b5 - III7",
+            "R": "ii9 - vi7 - IVmaj7 - ivm7b5 - ii7b5 - I7#9",
+            "P": "ii - v - vi - IV7 - V7 - vii\u00b0 - I7",
+            "I": "i - iv - viim7b5 - ii7b9",
+            "O": "i - i7 - iv - v7 - vi - iim7b5 - ii7 - i",
+            "S": "i - iv - v\u00b0 - iv"
+        },
+        "IDM (Intelligent Dance Music)": {
+            "A": "i - iv - VII7 - VI - V - iv - II7 - i",
+            "B": "i - VI - IV - v7 - VI - II - III - i7",
+            "C": "ii7 - VI9 - IVadd9 - vii\u00b07 - I9 - II7#9 - viim7b5 - III7b9 - iv7b9",
+            "R": "ii9 - V7#9 - iim7 - Iaug7 - IVsus4 - vi7 - ii7b9 - V13",
+            "P": "ii7 - V7 - vi - V7#9",
+            "I": "i - iv - vii\u00b0 - iii - V7 - ii - iv - i",
+            "O": "i - VI - v7 - i - VI - IV7 - i - ii\u00b0 - VI - iv7 - i",
+            "S": "i - iv - v\u00b07 - iv"
+        },
+        "Jungle Breaks": {
+            "A": "i - iv - v7 - iv",
+            "B": "ii7 - V7 - I7 - IVmaj7 - VI7 - ii7 - V7 - I7",
+            "C": "ii - iv - v - II7 - ii - v - IV7 - ii7",
+            "R": "iim7 - v - VI - iii7 - II7 - VImaj7 - IVsus4 - I7",
+            "P": "ii - V - I - V7",
+            "I": "i - iv - v - iv",
+            "O": "i7 - IV7 - v7 - IV7 - i7",
+            "S": "i - iv - vdim - iv"
+        },
+        "Dreamwave Synths": {
+            "A": "i - IV - v - IV - VI - VII - III - IV",
+            "B": "vi - IV - I - V7",
+            "C": "ii - V7 - III7 - iv - ii - V7 - IVmaj7 - vii\u00b07",
+            "R": "vi - IV - I - V7 - IV - i - III7 - VI",
+            "P": "ii9 - IV7 - Vmaj7 - vii\u00b07 - I6",
+            "I": "i - VII - VI - iv - v7 - VI - VII - i",
+            "O": "iv - i - VI - iii - VII - ii9 - V7 - i",
+            "S": "i - iv - v - iv"
+        },
+        "Future Garage": {
+            "A": "i - VI - iv - v7",
+            "B": "i - VI - III7 - VII - iv - II7 - v - I",
+            "C": "vi - IV - V - I7 - ii7 - V7 - IV - Isus4 - Vsus4 - IV",
+            "R": "vi - ii - iv - v7",
+            "P": "ii - vi - IV - I7",
+            "I": "i - VI - iv - VII",
+            "O": "i - iv - V - i - iv - VI - V - i",
+            "S": "i - IV7 - vii\u00b0 - V7"
+        },
+        "EDM Build-up": {
+            "A": "i - IV - V - VI - iv - VII - iv - III7",
+            "B": "i - iv - V7 - VI - iv - V7 - i",
+            "C": "ii - I - vi - III7 - V7 - IV - I - V7",
+            "R": "i - IV - V - IV - vi - IV - i - iv",
+            "P": "iv - VImaj7 - ii - V7",
+            "I": "i - VI - III - VII",
+            "O": "ii - vi - IV - I - V - ii - vi - IV - I - ii - vi - IV - I - IV",
+            "S": "i - iv - V7 - iv"
+        },
+        "Lo-Fi Hip-Hop Chill": {
+            "A": "ii7 - VImaj7 - IV7 - vii\u00f8",
+            "B": "ii7 - V7 - I6 - IV7 - vi9 - II7 - V7 - I6",
+            "C": "ii7 - V7 - vi - ii7 - V7 - IImaj7 - iii7 - ii7 - vi9",
+            "R": "ii7 - Imaj7 - IVmaj7 - vii\u00b07",
+            "P": "ii7 - VImaj7 - II7 - V7",
+            "I": "ii7 - V7 - Imaj7 - IVmaj7",
+            "O": "ii7 - VImaj7 - IVmaj7 - ii7 - VImaj7 - IVmaj7 - I7 - ii7",
+            "S": "iim7 - viim7b5 - II7#9 - V7b5"
+        },
+        "Liquid DnB": {
+            "A": "i - iv - v - VI7 - iv - ii7",
+            "B": "i - iv - VII - III7 - VI - iv - VII",
+            "C": "vi - ii7 - V7 - vii\u00b07 - IVmaj7 - ii7 - V7 - vi",
+            "R": "ii - v - Imaj7 - vii\u00b0 - I",
+            "P": "i - IV - V - vii\u00b07",
+            "I": "iim7 - IVmaj7 - vii\u00b0 - V7",
+            "O": "iim7 - V7 - vim7 - IVmaj7 - iiim7 - IImaj7 - iim7 - viim7b5",
+            "S": "ii9 - v7 - IImaj7 - vi7 - IVmaj9 - II7 - viim7b5 - V9"
+        },
+        "Warm Vinyl Texture Beats": {
+            "A": "iim7 - V9 - Iadd9 - VI7 - ivm7 - ivm7b5 - I7",
+            "B": "ii7 - v7 - I6 - IV7 - iv - I7 - IVmaj7 - vii\u00b07",
+            "C": "ii9 - V7b9 - i6 - IV7#11 - vii\u00b07 - V13 - Iadd9 - IVmaj7",
+            "R": "ii7 - V7 - iii7 - VI7 - ii7 - V7 - I7",
+            "P": "ii7 - V7 - vii\u00b07 - I7 - IV7 - V7 - I6/9",
+            "I": "iim7 - vi7 - IImaj7 - v7 - ii7b5 - IImaj9 - iim7 - vi7",
+            "O": "iim7 - V9 - iim9 - VI7 - Imaj9 - iiim7b5 - V13 - I9 - Imaj7",
+            "S": "i7 - iv7 - v7 - i7"
+        },
+        "Darkwave": {
+            "A": "i - VI - ii\u00b0 - v - i - VII - iv - VI - i",
+            "B": "i - VI - iv - VII7",
+            "C": "vi - III7 - ii - ii\u00b07 - v - Iaug - IV7 - iv - VII7 - v\u00b07 - II - V7 - IV - ivm7 - I7b9",
+            "R": "vi - iii - vii\u00b0 - iv - ii\u00b07 - V7",
+            "P": "i - iv - vii\u00b0 - V7 - vi - III7 - ii - V7",
+            "I": "i - iv - vii\u00b0 - iv",
+            "O": "i - iv - v - ii\u00b07 - i",
+            "S": "iv - vii\u00b0 - i - vii\u00b0"
+        },
+        "Techstep": {
+            "A": "i - vii\u00b0 - iv - i",
+            "B": "i - i - VII - VI - v - VII - i - i",
+            "C": "i - ii - VI - iv - VII - iv\u00b0 - III - vi",
+            "R": "i - iv - VI7 - i7 - ii\u00b07 - vii\u00b0",
+            "P": "iim7 - V - vii\u00b0 - ii - V7 - ii7 - vi",
+            "I": "i - iv - v\u00b0 - iv",
+            "O": "i7 - IV7 - iv - i7 - V7 - v - i7",
+            "S": "i\u00b0 - ii\u00b0 - vii\u00b0 - ii\u00b0"
+        },
+        "Future Bass": {
+            "A": "vi - IV - I - V",
+            "B": "vi - IV - I - V7",
+            "C": "IVmaj7 - vii\u00b0 - vi - V7 - III7 - iv - V7#9 - ii - IV - V6/9",
+            "R": "II - V7 - vi - IV - I - VII7 - II - IV",
+            "P": "ii - V - vi - IV7",
+            "I": "i - IV - vi - V",
+            "O": "vi - IV - I - V",
+            "S": "i - VI - IV - V7"
+        },
+        "Dark Memphis Phonk": {
+            "A": "i - VI7 - VII - v7 - VI7 - i",
+            "B": "i - VI7 - iv7 - V7",
+            "C": "iim7b5 - V7#9 - Isus4 - VIaug7 - iv - iim7 - V7b9 - I7#9",
+            "R": "i7 - IV - v\u00b0 - IV7 - i7",
+            "P": "i - iv - v7 - ii\u00b07 - iv7",
+            "I": "i - VI7 - iv - v\u00b07 - i",
+            "O": "i7 - IV7 - ii\u00b07 - VII7 - i7",
+            "S": "ii7 - V7 - i - VI7"
+        },
+        "Neurofunk": {
+            "A": "i - VI - VII - VI",
+            "B": "i - VI7 - iv - i7",
+            "C": "i - IV7 - V\u00b0 - VIaug - IV",
+            "R": "i - iv - v - vii\u00b0",
+            "P": "i - iv - v - iv",
+            "I": "iim7 - vii\u00b07 - Imaj9 - ivm7",
+            "O": "i - iv - v7 - iv - i",
+            "S": "i - ii\u00b0 - III+ - ii\u00b0"
+        },
+        "Jump-Up DnB": {
+            "A": "i - iv - v - vii\u00b0",
+            "B": "i - VII - VI - VII7",
+            "C": "ivm7 - V7 - VIaug - ii\u00b07 - IImaj7 - V7b9 - iiim7 - viim7b5",
+            "R": "iim7 - V7 - iim7 - V7 - viim7b5 - IImaj7 - V7 - Imaj7",
+            "P": "ii - V7 - vi - IV7",
+            "I": "i - VI - III - VII",
+            "O": "vi - IV - I - IV - V7 - IV - I",
+            "S": "I7 - IIImaj7 - VI9 - IV7 - IVaug - VII7 - III7b9"
+        },
+        "Industrial Techno": {
+            "A": "i - iv - i - VII7",
+            "B": "i - iv - V7 - iv",
+            "C": "i - i\u00b07 - VI - VImaj7 - IV - iii - i - i\u00b07",
+            "R": "i - iv - v\u00b0 - iv",
+            "P": "i - i7 - iv\u00b07 - V7",
+            "I": "i - v\u00b0 - i - iv - VII7",
+            "O": "i - VI - iv - i - V7 - III - iv - i",
+            "S": "i - V7 - vi - i - iv - V7 - vi - ii\u00f87 - i"
+        },
+        "Big Room EDM": {
+            "A": "i - VI - III - VII",
+            "B": "I - V - vi - IV",
+            "C": "i - VI - III - VII - i - II - VI - IV",
+            "R": "vi - IV - I - V",
+            "P": "i - VI - III - VII7",
+            "I": "i - iv - V - iv",
+            "O": "I - IV - V - IV - I",
+            "S": "i - IV - VI - V"
+        },
+        "Electro Swing": {
+            "A": "i - VI7 - ii - V7",
+            "B": "I - VI7 - II7 - V7",
+            "C": "ii7 - V7 - I6 - ii7 - V7 - I6 - IV7 - I7b9",
+            "R": "ii7 - V7 - vi - IV7 - II7 - V7 - Iaug7 - IV7",
+            "P": "ii - V7 - vi - III7",
+            "I": "iim7 - V7 - Imaj7 - VImaj7 - II7 - V7 - Imaj7 - II7",
+            "O": "ii7 - V7 - vi - IV7 - ii7 - V7 - I",
+            "S": "vi - II7 - V7 - I - V7 - II7 - vi - ii\u00b07"
+        },
+        "UK Garage": {
+            "A": "i - IV - vi - V7",
+            "B": "i - VII - v - VI - VIImaj7 - III7 - ii - IV",
+            "C": "ii - ii9 - ii7 - V7 - i - IV7 - iv - V7 - vii\u00b07 - IV",
+            "R": "ii - V7 - i - IVmaj7 - vii\u00b0 - V7 - I7",
+            "P": "iim7 - V7 - vi - IV7",
+            "I": "i - IV7 - vi - III7",
+            "O": "ii9 - V7 - Imaj7 - IV7 - iii7 - VI7 - IImaj7 - V7sus4 - ii9",
+            "S": "i - v - VII - iv"
+        },
+        "Deep House Groove": {
+            "A": "iim7 - V9 - Imaj7 - IV9",
+            "B": "ii9 - V7 - Imaj7 - vi7 - IV7 - V7 - IImaj9 - V7",
+            "C": "ii7 - V7 - I7 - IVmaj7 - ii9 - V13 - Iadd9",
+            "R": "ii9 - v9 - I7 - IV7 - ii9 - V13 - I7",
+            "P": "ii7 - IV9 - vii\u00b07 - Vm7 - Iadd9",
+            "I": "iim7 - v7 - Imaj7 - viim7b5",
+            "O": "ii7 - V9 - Imaj7 - ii7 - V9 - Imaj9 - IVmaj7 - I7",
+            "S": "ii9 - v7 - IV7 - i7 - IV9 - ii7 - v7 - i7"
+        },
+        "Trance Gate": {
+            "A": "i - IV - vi - IV",
+            "B": "i - VI - VII - VI - iv - VI - VII - VI",
+            "C": "ii7 - v - i - IV7 - vii\u00b07 - V9 - i - v - I7",
+            "R": "vi - IV - I - V7 - ii\u00f8 - vi7 - V7",
+            "P": "ii - IV - vi - V7",
+            "I": "i - IV - vi - IV7",
+            "O": "ii - v - i - IImaj7 - v - i - IV - V7",
+            "S": "I - V - vi - IV"
+        },
+        "Hardstyle": {
+            "A": "i - VI - III - VII",
+            "B": "i - VI - III - VII",
+            "C": "vi - II7 - vii\u00b0 - V7 - I",
+            "R": "vi - IV - I - V7",
+            "P": "ii - V - i - VII - III - VI - iv - V7",
+            "I": "i - VI - VII - VI",
+            "O": "I - IV - V - IV - I",
+            "S": "i - iv - V7 - iv"
+        },
+        "Post-Industrial": {
+            "A": "i - i\u00b0 - IV - V7 - vi - vii\u00b0 - IV - V7",
+            "B": "i - i\u00b0 - ivm7 - v7 - ii\u00b07 - V7 - i",
+            "C": "i - ii\u00b0 - vi - V7 - ii\u00b0 - ivm7 - V7#9 - i",
+            "R": "i - VI - i\u00b0 - V7",
+            "P": "iim7b5 - III7b9 - vii\u00b07 - viim7b5",
+            "I": "i - iv - v\u00b0 - i7 - ii\u00f8 - vii\u00b07 - i",
+            "O": "i - VI - III7 - iv - II7 - V7 - IVaug7 - i",
+            "S": "i\u00b07 - IVadd9 - v7 - iv\u00b0 - Iaug7"
+        }
+    },
+    "Afrobeats & Amapiano": {
+        "Afrobeats Groove": {
+            "A": "I - IV - ii7 - V7 - IV - I",
+            "B": "I - V - IV - vi - IV - ii - V - I",
+            "C": "ii - vi - IV - V7 - vi - IV",
+            "R": "ii - V7 - vi - IV",
+            "P": "i - III7 - IV - V7",
+            "I": "i - IV - V - IV",
+            "O": "I - IV - V - IV - IIIm7 - VIm7 - IV - I",
+            "S": "iv - i - V7 - iv"
+        },
+        "Amapiano Log Drum Beat": {
+            "A": "i - iv - V7 - iv",
+            "B": "i - III7 - VI - VII7",
+            "C": "ii - V7 - I - iii7 - vi - ii7 - V7 - I",
+            "R": "iim7 - V7 - vi - IV7",
+            "P": "ii7 - V7 - vi - IVmaj7",
+            "I": "i - IV - VII - IV",
+            "O": "iim7 - iiim7 - IV7 - V7 - IVmaj7 - I7",
+            "S": "i - iv - v7 - iv"
+        },
+        "Afro-Fusion": {
+            "A": "i - IV - V - iv - V - i",
+            "B": "i - IV - V7 - IV - i - VI - IV - V7",
+            "C": "ii - V7 - iii - VI7 - ii - vi - IV7 - V7",
+            "R": "ii - V7 - vi - IVmaj7 - vii\u00b07 - III7 - vi - II7",
+            "P": "iv - IImaj7 - V7 - vi",
+            "I": "i - IV - V - vi - IV - V - III7",
+            "O": "I - IV - vi - V - IV - I - V - II7 - V",
+            "S": "i - iv - v7 - iv"
+        }
+    },
+    "Jazz": {
+        "Jazz Standard": {
+            "A": "iiim7 - VI7 - IImaj7 - V7",
+            "B": "ii7 - V7 - Imaj7 - VI7 - ii7 - V7 - Imaj7",
+            "C": "ii7 - V7 - Imaj7 - IV7 - #IVdim7 - iim7b5 - II7 - V7 - iim7 - V7b9 - Imaj7",
+            "R": "ii7 - V7 - IImaj7 - V7b9 - IIImaj7 - VI7 - iim7 - V7",
+            "P": "ii7 - V7b9 - Imaj7 - VI7 - ii7 - V7 - Imaj9",
+            "I": "IIm7 - V7 - Imaj7 - IVmaj7 - III7 - VI7 - II7 - V7",
+            "O": "ii7 - V7 - Imaj7 - VI7 - ii7 - V7 - Imaj7 - ii7 - V7 - I6/9",
+            "S": "ii7 - V7 - IImaj7 - II7b9 - ii7 - V7 - Imaj7 - I7b9"
+        },
+        "Jazz II-V-I": {
+            "A": "ii7 - V7 - Imaj7",
+            "B": "ii7 - V7 - Imaj7 - VI7 - ii7 - V7 - Imaj7",
+            "C": "ii7 - V7 - Imaj7 - IV7 - bVIImaj7 - iiim7b5 - vi7 - V7#9 - Imaj9",
+            "R": "ii7 - V7 - IImaj7 - V7 - VI7 - ii7 - V7 - IImaj7",
+            "P": "ii7 - V7 - viim7b5 - III7b9 - II7 - V7 - IImaj7",
+            "I": "ii7 - V7 - Imaj7",
+            "O": "ii7 - V7 - I6/9 - IVmaj7 - ii7 - V7 - I6/9",
+            "S": "ii7 - V7 - Imaj7"
+        },
+        "Modal Jazz": {
+            "A": "ii7 - V7 - Imaj7 - IV7 - vii\u00b07 - III7 - VI7 - ii7 - V7 - IImaj7",
+            "B": "IImin7 - V7alt - Imin9 - III7#9 - VI7b9 - IImin7 - V7alt - Imin9",
+            "C": "ii7 - V7 - IImaj7 - ii7 - V7 - IImaj7 - IV7 - vii\u00b07 - III7#9 - vi7 - II7alt - V7alt",
+            "R": "iim7 - V7alt - Imaj7 - IV7#11 - bVII7 - iii7 - VI7alt",
+            "P": "ii7 - V7 - i7 - IVmaj7 - II7 - V7",
+            "I": "ii7 - V7 - I\u03947 - ivm7b5 - II7b9 - V7b9 - I\u03949",
+            "O": "ii7 - V7 - Imaj7 - IV7 - ii\u00f8 - V7 - Imaj13 - IV9 - IImaj7 - V7 - Imaj9",
+            "S": "ii - V7 - i - VI7 - ii - V7 - i - i\u00b07"
+        },
+        "Bebop Progression": {
+            "A": "ii7 - V7 - Imaj7 - VI7 - ii7 - V7 - iii7 - VI7 - ii7 - V7 - Imaj7 - IVm7 - bVII7 - III7 - VI7 - II7 - V7 - Imaj7 - IV7 - III7 - VI7 - II7 - V7 - I7",
+            "B": "ii - V7 - I - iv7 - VII7 - III7 - vi - II7 - V7 - I",
+            "C": "ii7 - V7 - I\u22067 - vii\u00b07 - III7#9 - VI7b9 - II7#5 - V7b9 - I\u22069",
+            "R": "ii7 - V7 - viim7b5 - III7 - ii7 - V7 - I7 - vi7 - II7 - V7",
+            "P": "ii7 - V7 - iii7 - vi7 - II7 - V7 - I7 - IV7 - vii\u00b07 - III7 - VI7 - II7 - V7 - I7",
+            "I": "IIm7 - V7 - Imaj7 - VI7 - IIm7 - V7 - Imaj7 - III7 - VI7 - II7 - V7 - Imaj7",
+            "O": "ii7 - V7 - Imaj7 - vi7 - ii7 - V7 - Imaj7",
+            "S": "ii7 - V7 - I6/9 - IVmaj7 - iiim7 - VImaj7 - ii7 - V7"
+        },
+        "Swing Era Standard": {
+            "A": "IIm7 - V7 - Imaj7 - VI7 - II7 - V7 - Imaj7",
+            "B": "II7 - V7 - Imaj7 - VI7 - II7 - V7 - Imaj7",
+            "C": "II7 - V7 - I6 - VI7 - II7 - V7 - I6 - II7 - V7",
+            "R": "ii7 - V7 - viim7b5 - III7 - VI7 - ii7 - V7 - I",
+            "P": "ii7 - V7 - IImaj7 - V7#5",
+            "I": "IIm7 - V7 - Imaj7 - IVmaj7",
+            "O": "II7 - V7 - I - VI7 - II7 - V7 - Imaj7 - I6",
+            "S": "ii7 - V7 - I\u03947 - vi7 - II7 - V7 - I\u03947"
+        },
+        "Cool Jazz Cadence": {
+            "A": "ii7 - V7 - Imaj7 - ivm7 - vii\u00b07 - III7 - VI7 - ii7 - V7 - Imaj7",
+            "B": "ii7 - V7 - IImaj7 - V7 - Imaj9 - IVmaj7 - iii7 - VI7 - ii7 - V7 - Imaj7",
+            "C": "iiim7 - VI7 - IImaj7 - V7#9",
+            "R": "ii7 - V7 - IImaj7 - V7 - IImaj7 - V7 - vi - ii7 - V7 - IImaj7 - V7 - IImaj7 - V7 - I6",
+            "P": "ii7 - V7 - viim7b5 - III7 - VI7 - ii7 - V7 - I7",
+            "I": "ii7 - V7 - Imaj7 - IVmaj7 - ii7 - V7 - Imaj7",
+            "O": "ii7 - V7 - Imaj7 - ii7b5 - V7b9 - Imaj9 - VI7aug - ii7 - V7 - Imaj7",
+            "S": "I6 - ii\u00f8 - V7#9 - I6/9 - IVmaj7 - III7b9 - II7b5 - IVmaj7 - Isus4 - I7b5"
+        },
+        "Latin Jazz Fusion": {
+            "A": "ii7 - V7 - Imaj7 - IVmaj7 - ii7 - V7 - Imaj7 - VI7 - ii7 - V7 - Imaj7",
+            "B": "ii7 - V7 - Imaj7 - VI7 - ii7 - V7 - Imaj9",
+            "C": "ii7 - V7 - iim7 - V7#9 - iMaj7 - IVmaj7 - V7b9 - iMaj7",
+            "R": "ii7 - V7 - IImaj7 - V7b9 - vim7 - II7 - V7 - I",
+            "P": "ii7 - V7 - IImaj7 - V7b9",
+            "I": "II7 - V7 - Imaj7 - IV7 - II7 - V7 - Imaj7 - II7b9 - V7#9 - Imaj9",
+            "O": "ii7 - V7 - Imaj7 - VI7 - ii7 - V7 - Imaj7 - V7 - I7#5",
+            "S": "ii7 - V7 - I - ii7 - V7 - i\u00b07 - IV7 - V7"
+        },
+        "Dixieland Progression": {
+            "A": "I - IV - vi7 - ii7 - V7 - I - vi7 - ii7 - V7 - I",
+            "B": "II7 - V7 - IIm7 - V7 - I6 - IV7 - I7 - IV7 - II7 - V7 - I6/9",
+            "C": "ii7 - V7 - I - IV - I7 - IV - ii7 - V7",
+            "R": "ii7 - V7 - ii7 - V7 - ii7 - V7 - IMaj7 - V7",
+            "P": "ii7 - V7 - ii7 - V7 - I - IV - V7 - I7",
+            "I": "I - IV - V7 - I6 - ii7 - V7 - I - IV - ii7 - V7 - I",
+            "O": "I - VI7 - II7 - V7",
+            "S": "ii7 - V7 - Iaug - viim7b5 - V7#9"
+        }
+    },
+    "Blues": {
+        "12-Bar Blues": {
+            "A": "I - I - I - I - IV - IV - I - I - V7 - IV - I - I",
+            "B": "IV - IV - I - I7 - V7 - IV - I - V7",
+            "C": "I7 - IV7 - I7 - I7 - IV7 - IV7 - I7 - vii\u00b07 - V7 - IV7 - I7 - V7",
+            "R": "IV - iv - I7 - IV7 - V7",
+            "P": "II7 - V7 - II7 - V7",
+            "I": "I7 - I7 - I7 - I7",
+            "O": "I7 - IV7 - V7 - I7",
+            "S": "I - I - IV - I"
+        },
+        "Melodic Blues": {
+            "A": "I7 - IV7 - I7 - I7 - IV7 - IV7 - I7 - I7 - V7 - IV7 - I7 - V7",
+            "B": "IV - iv - I - iiim7 - VI7 - II7 - V7",
+            "C": "ii7 - V7 - I7 - IV7 - vii\u00b07 - III7 - VI7 - ii7 - V7 - I7",
+            "R": "ii7 - V7 - I7 - IV7 - I7",
+            "P": "ii7 - V7 - I7 - IV7",
+            "I": "I7 - IV7 - I7 - I7",
+            "O": "I - IV - V7 - I - IIIm7 - VI7 - II7 - V7",
+            "S": "I - IV - I - V7 - I - IV - I"
+        },
+        "Delta Blues Classic": {
+            "A": "I - IV - I - IV7 - I - V7 - IV - I",
+            "B": "I7 - IV7 - V7 - I7",
+            "C": "I7 - IV7 - V7b5 - IV7 - I7 - IV7 - V7#9 - I7",
+            "R": "I - IV - II7 - V7",
+            "P": "I7 - IV7 - I7 - IV7 - V7",
+            "I": "I7 - IV7 - I7 - I7",
+            "O": "I7 - IV7 - V7 - IV7 - I7",
+            "S": "I - IV - I - IV - I - V7 - IV - I"
+        },
+        "Chicago Blues Shuffle": {
+            "A": "I7 - IV7 - I7 - I7 - IV7 - IV7 - I7 - I7 - V7 - IV7 - I7 - V7",
+            "B": "IV - IV7 - I - I7 - V7 - IV - I - V7",
+            "C": "I - IV - V7 - IV - V7 - I7 - IV7 - V7",
+            "R": "I - IV - ii - V7",
+            "P": "ii7 - V7 - IV - ii7 - V7",
+            "I": "I7 - IV7 - I7 - I7",
+            "O": "I - IV - V - IV - I - IV - V7 - I",
+            "S": "I - IV - I - I7 - IV - IV7 - I - I7 - V7 - IV - I - I7"
+        },
+        "Texas Blues Progression": {
+            "A": "I7 - IV7 - I7 - I7 - IV7 - IV7 - I7 - I7 - V7 - IV7 - I7 - V7",
+            "B": "IV - IV7 - I - I7 - IV - IV7 - V - V7",
+            "C": "ii7 - V7 - I7 - IV7 - IVaug - I7 - vii\u00b07 - V7",
+            "R": "IV7 - iv7 - I7 - IV7 - V7",
+            "P": "ii7 - V7 - I7 - IV7",
+            "I": "I7 - IV7 - I7 - I7",
+            "O": "I - IV - V7 - I7 - IV7 - I7 - ii\u00b07 - V7",
+            "S": "I - IV - I - V7"
+        },
+        "Boogie-Woogie Groove": {
+            "A": "I7 - IV7 - I7 - IV7 - I7 - V7 - IV7 - I7",
+            "B": "IV - IV7 - I - I7 - IV - IV7 - V - I7 - IV - V7",
+            "C": "II7 - V7 - I7 - IV7 - IVdim7 - I7 - V7",
+            "R": "IV7 - V7 - IV7 - I",
+            "P": "IV - IV7 - I7 - IV7 - V7",
+            "I": "I7 - IV7 - I7 - IV7 - V7 - I7 - IV7 - V7",
+            "O": "I7 - IV7 - V7 - IV7 - I7 - V7",
+            "S": "I - IV - I - IV - V7 - IV - I"
+        }
+    },
+    "Metal": {
+        "Symphonic Metal": {
+            "A": "i - VI - III - VII7",
+            "B": "i - VI - III7 - VII - iv - VII - i6 - V7 - i",
+            "C": "vi - II7 - iii - vii\u00b0 - I7 - II7#9 - IV - V7 - I",
+            "R": "vi - III - VII - ii\u00b07 - V7 - I - VImaj7 - IV7 - V7",
+            "P": "i - VI - VII - ii\u00b07 - VI - V7",
+            "I": "I - II - i - IV - V - vi - VII - I",
+            "O": "i - VI - III - VII7 - i - VI - VII7 - VI - V - i",
+            "S": "i - iii - VI7 - VII7 - i\u00b0"
+        },
+        "Gothic Metal": {
+            "A": "i - VI - III - VII7",
+            "B": "i - VI - vii\u00b0 - VI - VII",
+            "C": "i - iv - III - im7 - VIaug7 - ii\u00b0 - i7 - VII7",
+            "R": "i - VI - iv - II7 - v - i\u00b07 - VI - II7 - v7",
+            "P": "i - iv - V7 - vii\u00b0 - iv - V7 - i",
+            "I": "i - VI - VII - i - VI - v - i\u00b0",
+            "O": "i - VI - III - VII7 - i - VI - VII7 - III",
+            "S": "i - iv - vii\u00b0 - i6"
+        },
+        "Groove Metal": {
+            "A": "i - iv - i - vii\u00b0",
+            "B": "i - i - V7 - V7",
+            "C": "vi - VII - i - III7 - v - vi - i - IV7",
+            "R": "i - i - IV - iv - v - i7 - iv - v - IV - i7",
+            "P": "i - iv - i - V7 - iv - VII",
+            "I": "i - III - i - VI - iv - III - i - II7",
+            "O": "i - III - VI - i - V7 - i",
+            "S": "I5 - IV5 - I5 - IV5"
+        },
+        "Death Metal": {
+            "A": "i - VI - iv - ii\u00b07 - i - v - VI - v\u00b07",
+            "B": "i - VI - ii\u00b0 - V7 - i",
+            "C": "i - i\u00b0 - VI - III7 - iv - v\u00b0 - IIIaug7 - VI7 - i",
+            "R": "i - v\u00b0 - i - v\u00b0 - i - vii\u00b07 - iv - i",
+            "P": "i - iv - v\u00b0 - iv - i\u00b07",
+            "I": "i - i\u00b0 - iv - v - i",
+            "O": "i - iv - V - i - vii\u00b0",
+            "S": "i - iv - v\u00b0 - iv"
+        },
+        "Metalcore": {
+            "A": "i - VI - III - VII7",
+            "B": "i - VI - III - VII7",
+            "C": "i - vi - iv - i - #iv\u00b07 - i7 - ii - vii\u00b07",
+            "R": "i - iv - V7 - iv",
+            "P": "i - VI - iv - V7",
+            "I": "I - vi - II - V7",
+            "O": "i - VI - III - VII7 - i - VI - III - VII7",
+            "S": "i - IV - v - IV"
+        },
+        "Progressive Metal Complexity": {
+            "A": "i - i\u00b0 - ivm7 - Vaug7 - VIImaj7#5 - iii\u00b07 - vim7 - I+7 - ivm7 - V7b9",
+            "B": "iim7b5 - V7b9 - iiim7 - VI7 - VII7#9 - Imaj7 - V7b9 - iim7b5 - IVmaj7#11",
+            "C": "ii\u00f8 - VI7#9 - IIImaj13 - IV7#5b9 - v - vii\u00b07 - IImaj7#11 - Iaug7 - II6/9 - vi7 - II7#5b9 - I6",
+            "R": "i - iv - V7b9 - vii\u00b07 - I+ - iv - V7#9 - i6",
+            "P": "ii - iv - V7#9 - II7 - vii\u00b0 - Iaug+7 - vii\u00b07",
+            "I": "ii\u00f8 - IVmaj7 - vii\u00b07 - Iaug - VIaug7 - v\u00b07 - III7b9 - Isus2 - II7#5",
+            "O": "i - V7b9 - vi\u00b07 - III7#9 - viim7b5 - VIaug7 - i7b5b9 - IIaug7 - VII7b5b9 - i7b5#9 - II7b5b9 - v7b5#9",
+            "S": "i - II7#9 - i\u00b0 - V7b9 - IVmaj13 - i - VI7b5b9 - iim7b5 - ii\u00b07 - V7#5#9 - VImaj7 - i - I7b5b9 - ivmaj9 - II7#9 - i"
+        },
+        "Folk Metal": {
+            "A": "i - iv - i - VII - VI - v - VI - VII",
+            "B": "i - VI - VII - i - iv - VII - i - II7",
+            "C": "VI - III - iv - III7 - IV - ii - VI - iii - V7",
+            "R": "vi - IV - V7 - IV - ii - ii7 - vi - V7",
+            "P": "vi - III7 - vii\u00b0 - Iaug",
+            "I": "i - iv - i - VII - i - iv - VI - VII7",
+            "O": "i - V - VI - VII - VI",
+            "S": "vi - III - vii\u00b0 - II7 - iv - i"
+        },
+        "Industrial Metal": {
+            "A": "i - VI - i - iv7",
+            "B": "i - iv - v - iv - i",
+            "C": "ivm7 - V7 - iim7b5 - i - V7b9 - ivdim7 - III7#9 - IIIaug",
+            "R": "i - i\u00b0 - VII - VI7 - i",
+            "P": "i - i - iv - V7",
+            "I": "i - i - i - iv - v - iv - i - i",
+            "O": "i - VI - II - i - II - VII - i\u00b0",
+            "S": "i - i - i - i"
+        },
+        "Nu Metal": {
+            "A": "i - IV - V7 - IV",
+            "B": "i - i - VII - III7",
+            "C": "II7 - v - VII7 - III7 - iv - III7",
+            "R": "i - III - vii\u00b0 - VI - i7",
+            "P": "i - iv - V - iv - VI - V7",
+            "I": "i - iv - i - VI - VII",
+            "O": "I5 - IV5 - V5 - IV5 - I5",
+            "S": "i - v - VII - v"
+        },
+        "Doom Metal": {
+            "A": "i - VI - III - iv7",
+            "B": "i - VI - i - VI - v\u00b07 - i",
+            "C": "i - i\u00b0 - ivm7 - vii\u00b07 - i",
+            "R": "i - VI - iv - ii\u00b0 - i - i7 - IV7 - III7",
+            "P": "i - i - iv - v - vi - i - ii\u00b0 - iv",
+            "I": "i - VI - iii\u00b0 - i7",
+            "O": "i - VI - v - i - III - VI - iv - VII7",
+            "S": "i - vi - i - vi\u00b07"
+        },
+        "Thrash Metal Speed": {
+            "A": "i - iv - V7 - i",
+            "B": "i - VI - VII - i - VI - iv - VII",
+            "C": "ii - V7 - ii - vii\u00b07 - i - VI7 - ii - V7",
+            "R": "i - i - i7 - IV7 - V7 - iv - iv7 - i",
+            "P": "i - VI - iii - VII7",
+            "I": "I - i - II - i - III - iii - IV - iv - V - v - VI - vi - VII - vii - I - i",
+            "O": "i - VI - VII - i - IV - III - i",
+            "S": "i - i - iv - vii\u00b0"
+        },
+        "Black Metal": {
+            "A": "i - iv - v - i - VI - iii - VII - ii\u00b07 - i",
+            "B": "i - iv - V - i",
+            "C": "i - ii\u00b0 - i - VI - i - VII - VI - V7",
+            "R": "i - iv - v - iv - i\u00b0 - v\u00b0 - i",
+            "P": "i - i - iv - v - iv - i - VI7 - v\u00b07 - i",
+            "I": "i - i - iii - VI - ii\u00b0 - ii\u00b0",
+            "O": "i - iv - V7 - iv - i\u00b0 - ii\u00b07 - i",
+            "S": "i - v - iv - i\u00b0"
+        },
+        "Power Metal": {
+            "A": "i - VI - III - VII7",
+            "B": "I - IV - ii - V - I - V - IV - ii - V7",
+            "C": "i - VI - III - vii\u00b0 - V7 - i - VI - V7 - i - IV - ii - VII7 - V7 - i",
+            "R": "i - VI - III - VII - VI - V7",
+            "P": "ii - V - iii - vi - IV - ii - V7 - I",
+            "I": "i - iv - VI7 - v - i",
+            "O": "i - VI - VII - i - VI - VII - i - i\u00b07",
+            "S": "i - VI - VII - iv\u00b0 - III7 - VI - v - i\u00b07 - VII"
+        },
+        "Heavy Metal Riffing": {
+            "A": "i - VI - III - VII7",
+            "B": "i - III - iv - VII7",
+            "C": "i - VI - iv - iv - i - III - V7 - VII",
+            "R": "i - VI - iv - VII5",
+            "P": "i - VI - VII - i7 - VI - VII - i7",
+            "I": "i - iv - v - i - v - iv - i5",
+            "O": "i - VI - III - VII7 - i - VI - VII7 - III",
+            "S": "i - v - i - v"
+        }
+    },
+    "Funk, Soul & R&B": {
+        "Classic Funk": {
+            "A": "I7 - IV7 - V7 - IV7",
+            "B": "I9 - IV9 - ii7 - V13",
+            "C": "ii7 - V7 - I7 - IV7 - vii\u00b07 - III7 - ii7 - V7",
+            "R": "ii7 - V7 - IVmaj7 - iii7 - vi7 - II7 - V7 - I7",
+            "P": "ii7 - V7 - iii7 - VI7 - ii7 - V7 - I7",
+            "I": "i7 - IV7 - v7 - IV7 - i7",
+            "O": "ii7 - V7 - I7 - IV7 - vii\u00b07 - III7 - VI7 - ii7 - V7 - I7",
+            "S": "i7 - IV7 - v7 - IV7"
+        },
+        "Neo Soul": {
+            "A": "ii7 - V7 - Imaj7 - IV7 - ii7 - V9 - Imaj9",
+            "B": "ii7 - V7 - I7 - IVmaj7 - iii7 - VI7 - ii7 - V7",
+            "C": "ii7 - V7 - iii7 - VImaj7 - ii7 - V7 - I7 - IVmaj7 - V7 - iii7 - IVmaj7",
+            "R": "ii7 - V7 - IImaj7 - V7sus4 - vi7 - IV7 - III7 - V7#9",
+            "P": "ii - V7 - IMaj9 - vi7 - II7 - V7b9 - Iaug",
+            "I": "iiim7 - VI7 - ii7 - V7 - Imaj7 - IV7 - iiim7 - VI7",
+            "O": "ii7 - V7 - I7 - IV7 - V7 - I7 - II7b5 - V13 - I7",
+            "S": "ii7 - V9 - I13 - IVmaj7"
+        },
+        "James Brown Funk": {
+            "A": "I7 - IV7 - ii7 - V7",
+            "B": "IV7 - IV9 - IV7 - ii7 - V9 - V13 - i7 - IV7 - V9",
+            "C": "i7 - IV7 - V7 - iv7 - VI7 - v7 - IV7 - V7",
+            "R": "ii7 - V7 - IVmaj7 - ii7 - V7 - I7",
+            "P": "ii7 - V7 - ii7 - V7 - Imaj7 - IV7 - V7",
+            "I": "I7 - IV7 - I7 - IV7 - I7 - II7 - V7 - I7",
+            "O": "IV7 - I7 - V7 - IV7 - II7 - V7",
+            "S": "i7 - IV7 - v - i7 - IV7 - v - IV7 - i7"
+        },
+        "P-Funk Groove": {
+            "A": "i7 - IV7 - ii7 - V7 - IV7 - i7 - IV7 - V7",
+            "B": "IV7 - vi9 - ii7 - V9",
+            "C": "ii7 - V7 - vi7 - II7 - iii7 - VI7 - ii7 - V7",
+            "R": "ii7 - V7 - IVmaj7 - II7 - iii7 - VI7 - ii7 - V7",
+            "P": "ii7 - V7 - ii7 - V7 - IVmaj7 - IV7 - I7 - IV7",
+            "I": "I7 - IV7 - I9 - ii7 - V13 - IV9 - I7",
+            "O": "I7 - IV7 - V7 - IV7 - I7 - ii7 - V7 - I7",
+            "S": "i7 - IV7 - v7 - IV7"
+        },
+        "Motown Soul Progression": {
+            "A": "I - vi - IV - V",
+            "B": "IV - iv - I - ii - V7 - I",
+            "C": "ii7 - V7 - IImaj7 - ii7 - V7 - III7 - IVmaj7 - V7",
+            "R": "ii7 - V7 - iii7 - VI7 - ii7 - V7 - Imaj7",
+            "P": "ii - V7 - IV - IImaj7 - V7",
+            "I": "I - IV - ii - V7",
+            "O": "I - IV - V - IV - V - I6/9",
+            "S": "I - ii7 - V7 - I - IV - vii\u00b07 - I"
+        },
+        "Funky Breakbeat": {
+            "A": "i7 - IV7 - v7 - IV7 - i7 - IV9 - v9 - IV9",
+            "B": "ii7 - V7 - I9 - IV7 - ii7 - V13 - IV11 - I9",
+            "C": "i7 - IV7 - V7 - iiim7 - ii7 - V7 - IV7 - i7",
+            "R": "ii7 - V7 - iii7 - VI7 - ii7 - V7 - I7",
+            "P": "ii7 - IV9 - V13 - vi7 - ii7 - IV7sus4 - V7#9",
+            "I": "i7 - IV9 - v7 - IV9",
+            "O": "i7 - IV7 - v7 - i7 - IV9 - IV7 - V9 - iv7",
+            "S": "i7 - IV7 - vii\u00b07 - V7sus4 - V7"
+        },
+        "Classic R&B Groove": {
+            "A": "i7 - IV7 - V7 - iv7 - I7 - iv7 - II7 - V7",
+            "B": "IV - iv - I7 - II7 - V9 - iiim7 - VI7 - ii - V7 - I",
+            "C": "ii7 - V7 - IIImaj7 - vi - ii7 - V7 - Imaj7",
+            "R": "ii7 - V7 - vi - ii7 - V7 - I7",
+            "P": "ii7 - V7 - IVmaj7 - I7",
+            "I": "i7 - IV7 - v7 - IV7",
+            "O": "I7 - IV7 - V9 - IV7 - I7 - ii7 - V9 - I7",
+            "S": "I - vii\u00b0 - IV - V7 - II7 - I6"
+        }
+    },
+    "Hip-Hop & Rap": {
+        "PluggnB Melodic Flow": {
+            "A": "i - iv - V7 - iv",
+            "B": "i - VI7 - VImaj7 - iii7 - VI7 - IVmaj7",
+            "C": "ii7 - V7 - vim7 - V7#9 - ii7 - V7 - Iaug7",
+            "R": "ii9 - V7 - iiim7 - VI7 - ii9 - IV7",
+            "P": "ii7 - V7 - vi - IV7",
+            "I": "i - iv - v - iv",
+            "O": "iv - vi - II7 - V7 - iv",
+            "S": "i - ii7 - iii7 - ii7 - i\u00b0"
+        },
+        "Mumble Rap": {
+            "A": "i - iv - vi - v",
+            "B": "i - VI - VII - iv",
+            "C": "i - iv - V7 - iv",
+            "R": "i - iv - VI7 - IVmaj7",
+            "P": "ii - vi - III7 - V7",
+            "I": "i - iv - V - iv",
+            "O": "i - iv - V7 - iv",
+            "S": "i - iv - i - IV - v - i - iv - V7"
+        },
+        "Jazz Rap": {
+            "A": "iiim7 - VImaj7 - iim7 - V7",
+            "B": "ii7 - V7 - Imaj7 - VI7 - ii7 - V7 - Imaj7",
+            "C": "ii7 - V7 - III7 - VI7 - ii7 - V7 - I7 - IV7",
+            "R": "ii7 - V7 - Imaj7 - VI7 - ii7 - V7 - Imaj9",
+            "P": "ii7 - V9 - IImaj7 - V7sus4 - V7",
+            "I": "ii7 - V7 - Imaj7 - IVmaj7 - ii7 - V7 - Imaj9",
+            "O": "ii7 - V7 - Imaj7 - VI7 - ii7 - V7 - Imaj7",
+            "S": "ii7 - V7 - I - IVmaj7 - V7 - iim7 - V7 - Imaj7"
+        },
+        "Experimental Hip-Hop": {
+            "A": "i - i7 - VImaj7 - ii7 - V7 - iii7 - iv - v\u00b0 - iim7b5 - V7b9",
+            "B": "i - vii\u00b07 - IVmaj7 - V7 - iim7b5 - ii - V7 - I13",
+            "C": "ii7 - vi - V9 - iii7 - Iadd9 - IV7 - iiim7b5 - iv7#9",
+            "R": "iim7 - vim7 - ii\u00b07 - II7 - Isus4 - V7 - IV7 - V7",
+            "P": "ii7 - v7 - VI7 - im7 - VI7 - im7 - iv7",
+            "I": "i - iv - v - iv - VI7 - ii7 - VImaj7 - i7",
+            "O": "i - IV7 - v - III7 - ii - vii\u00b0 - VI9 - IV7 - iii7 - bVI - i",
+            "S": "i - IV7 - ii\u00b0 - V7sus4 - ivmaj7 - vii\u00b07 - Iaug"
+        },
+        "Grime": {
+            "A": "i - iv - VII - III7",
+            "B": "i - iv - i - v - iv - v - i",
+            "C": "ii - v - i - vi7 - IVmaj7 - vii\u00b07 - III7 - i",
+            "R": "i - iv - V7 - iv - i",
+            "P": "i - iv - VI7 - V7",
+            "I": "i - iv - V7 - i",
+            "O": "iim7 - V7 - i - VII7",
+            "S": "i - iv\u00b0 - i7 - vdim7"
+        },
+        "UK Drill": {
+            "A": "i - iv - VImaj7 - ii7",
+            "B": "i - VII - VI - iv",
+            "C": "i - VI7 - iv - VII7",
+            "R": "i - VI - III7 - VImaj7",
+            "P": "i - i - iv - iv",
+            "I": "i - iv - V7 - iv",
+            "O": "i - iv - v - iv",
+            "S": "i - iv - v - iv"
+        },
+        "Boom Bap Classic": {
+            "A": "i - IV - iv - II7 - V7",
+            "B": "i - i7 - iv - iv7",
+            "C": "ii7 - V7 - Imaj7 - IVmaj7 - iii7 - vi7 - ii7 - V7",
+            "R": "i - VI7 - ii - V7 - i - IV - V7 - ii",
+            "P": "iim7 - V7 - III7 - IVmaj7",
+            "I": "iim7 - V7 - Imaj7 - IVmaj7",
+            "O": "iim7 - V7 - Imaj7 - IV7 - IImaj7 - V7 - iim7 - V7 - Imaj7 - IV7 - IImaj7 - V7",
+            "S": "i - iv - v - iv"
+        },
+        "Alternative Hip-Hop": {
+            "A": "i - iv - V7 - i",
+            "B": "vi - IV - I - V7",
+            "C": "ii - V7 - iii - IVmaj7 - vii\u00b07 - V7",
+            "R": "iim7 - V7 - Imaj7 - ii7b5 - V7#9 - Imaj9",
+            "P": "i - iv - V7 - iv",
+            "I": "i - iv - VII - iv",
+            "O": "i7 - iv7 - V7 - vii\u00b07 - i7 - iv7",
+            "S": "i - iv - v7 - iv"
+        },
+        "Spacey Autotune Rap": {
+            "A": "i - iv - v - iv",
+            "B": "i - VI7 - iv - v7",
+            "C": "ii7 - V7#9 - vi - IImaj7 - ii7 - vii\u00b0",
+            "R": "ii7 - V9 - vi - IV7",
+            "P": "ii7 - IVmaj7 - viim7b5 - Iaug",
+            "I": "i - VI7 - iv - II7",
+            "O": "ii7 - V7 - iv7 - V7 - ii7",
+            "S": "I - vii\u00b0 - Vm7 - Iaug"
+        },
+        "Trap Metal": {
+            "A": "i - IV - VI - v7",
+            "B": "i - VI7 - iv - VI7",
+            "C": "i - VI7 - iv - II7",
+            "R": "i - iv - V7 - iv - i",
+            "P": "i - IV - V7 - vi7 - IV - V7",
+            "I": "i - IV - vii\u00b0 - i",
+            "O": "i - iv - VI - V7 - ii\u00b07 - VI7 - iv - i",
+            "S": "I - I - i - I"
+        },
+        "West Coast Hip-Hop": {
+            "A": "i - iv - VII7 - iv",
+            "B": "ii7 - V7 - I7 - IVmaj7",
+            "C": "ii - V7 - vi - III7 - IVmaj7 - ii7 - V7 - I6/9",
+            "R": "i - iv - vii\u00b0 - V7 - iv",
+            "P": "ii7 - V9 - vi - IV7",
+            "I": "i - iv - iv - iim7",
+            "O": "i - iv - v - iv - i",
+            "S": "i - iv - V7 - iv"
+        },
+        "Boom Bap Revival": {
+            "A": "i - iv - V7 - i7",
+            "B": "iim7 - V7 - I7 - IVmaj7",
+            "C": "ii - V7 - vi - III7 - IVmaj7 - ii7 - V7 - I7",
+            "R": "iim7 - V7 - iim7 - V9 - iim11 - V13 - iim7 - V7",
+            "P": "ii7 - V7 - vi - IVmaj7",
+            "I": "iim7 - V7 - Imaj7 - iim7 - V7 - Imaj7",
+            "O": "iim7 - V7 - i - IV7",
+            "S": "ii - V7 - I - IV - vi - ii - V7 - I"
+        },
+        "RnB Ballad": {
+            "A": "i - iv - i7 - VI7 - ii7 - V7",
+            "B": "I - ii7 - IVmaj7 - V7",
+            "C": "ii7 - V7 - iii7 - vi7 - IVmaj7 - V7 - ii7 - V7 - I6/9",
+            "R": "ii7 - V7 - Imaj7 - IV7 - ii7 - V7 - I7",
+            "P": "ii - vi - IVmaj7 - V7",
+            "I": "ii7 - V7 - Imaj7 - IV7",
+            "O": "ii7 - V7 - I7 - vi7 - IVmaj7 - II7 - V13 - Imaj9",
+            "S": "iv - VI7 - ii\u00f8 - v7 - I7 - iii7 - IV9"
+        },
+        "G-Funk": {
+            "A": "i7 - IVmaj7 - vii\u00b0 - V7",
+            "B": "i7 - IV7 - vi7 - V7",
+            "C": "ii7 - V7 - im7 - IV9",
+            "R": "ii7 - V7 - I7 - IVmaj7 - V7 - Imaj7",
+            "P": "ii7 - V9 - IVmaj7 - ii7 - V7b9",
+            "I": "i7 - IV9 - VII9 - IV9",
+            "O": "i7 - IV7 - v - i7 - IV7 - v - i7 - IV7 - v - i7",
+            "S": "i7 - IV7 - V7sus4 - IV7 - i7"
+        },
+        "Conscious Hip-Hop": {
+            "A": "i - IV - vi - V7",
+            "B": "i - iv - V - iv",
+            "C": "ii7 - V7 - vi - IImaj7 - II7 - V7 - Isus4 - IV7",
+            "R": "ii - V7 - Imaj7 - IV7",
+            "P": "ii - V7 - IV - iii7 - vi - IV - V7",
+            "I": "i - iv - vii\u00b0 - iv",
+            "O": "ii7 - V7 - I - VI7 - ii7 - V7",
+            "S": "i - VI - iv - VI - v - V7 - iv - i"
+        },
+        "Lo-Fi Chill Beat": {
+            "A": "iim7 - v7 - imaj7 - IV7",
+            "B": "i - VII - VI - VII7",
+            "C": "ii9 - V13 - IImaj7 - ii9 - V13 - vi7 - IV7aug - ii9 - V13 - IImaj7 - ii9 - V7#5",
+            "R": "ii7 - V9 - Iadd9 - IV - ii7 - V9 - iv - iim7b5 - V7b9 - I7",
+            "P": "ii7 - V7 - iii7 - IV7",
+            "I": "ii7 - V7 - vi7 - IV7",
+            "O": "vi - IV - I - V7 - vii\u00b07 - II7 - I - VImaj7",
+            "S": "ii9 - V7 - vi - IV7 - ii7 - V7 - i\u00b07 - IV9"
+        },
+        "Alternative Hip-Hop Groove": {
+            "A": "i - II7 - iii - v - IV - II7 - i",
+            "B": "iv - VImaj7 - ii7 - V7",
+            "C": "ii7 - V7 - VI - ii7 - V7 - I7b9",
+            "R": "iim7 - IV7 - III7 - iim7 - V7b9",
+            "P": "ii7 - V7 - vi - III7",
+            "I": "i - VI7 - IVmaj7 - ii7 - v7",
+            "O": "iim7 - V7 - i - IV7 - im7 - V7",
+            "S": "i - iv - VI7 - V7 - iv"
+        },
+        "Ethereal Trap Beat": {
+            "A": "i - iv - vii\u00b0 - iv",
+            "B": "i - iv - VI - iii7",
+            "C": "ii9 - V7#9 - ivm7 - V7#9 - I6/9",
+            "R": "ii7 - VI7 - III7 - iv7 - vii\u00b07 - Iadd9",
+            "P": "ii7 - V7 - vi - III7",
+            "I": "i - VI - iv - V7",
+            "O": "i - v7 - iv - vii\u00b07",
+            "S": "i - ii\u00b07 - v7 - IVmaj7"
+        },
+        "Trap Modern Hip-Hop": {
+            "A": "i - iv - V7 - iv",
+            "B": "i - VI7 - iii - V7",
+            "C": "i - iv - ii7 - V7 - i",
+            "R": "i - bVII - bVI - bVII",
+            "P": "ii - V7 - IV - ivdim7",
+            "I": "i - iv - i - iv",
+            "O": "i - IV - V - iv",
+            "S": "i - iv - v - iv"
+        }
+    },
+    "Gospel": {
+        "Gospel Turn": {
+            "A": "I - IV - ii7 - V7 - I - vi - ii7 - V7",
+            "B": "IV - I - II7 - V7 - IV - I - IV - V7",
+            "C": "ii7 - V7/V - IVmaj7 - ii7 - V7 - Imaj7 - IVmaj7 - I7#9",
+            "R": "ii7 - V7 - I - IV - V7 - I - ii7 - V7",
+            "P": "ii7 - V7 - vi7 - ii7 - V7 - I7 - IV - V7",
+            "I": "I - IV - I - IV - V7 - I - II7 - V7 - I",
+            "O": "I - IV - V7 - IIm7 - V7 - IVmaj7 - I",
+            "S": "V7sus4 - IV - i\u00b0 - IV6/9 - iiim7 - IIsus2 - V7#9 - I7b9"
+        },
+        "Classic Gospel Walk": {
+            "A": "I - IV - I - V7 - I - IV - ii7 - V7 - I",
+            "B": "I - IV - ii7 - V7 - I - IV - V7 - I",
+            "C": "iim7 - V7 - I7 - IVmaj7 - ivm6 - vii\u00b07 - I6/9",
+            "R": "ii - V7 - I - IV - iv - I7 - IV - V7",
+            "P": "ii - V7 - IV - IV7 - I7 - iv - ii - V7",
+            "I": "I - IV - IImaj7 - V7 - I",
+            "O": "II - V7 - I - IV - V7 - I - ii - V7 - I",
+            "S": "ii7 - V7 - I - vii\u00b07 - IVmaj7 - Isus4 - IV - I7"
+        },
+        "Worship Ballad": {
+            "A": "I - IV - vi - V7 - ii - V7 - I",
+            "B": "IV - I - V - vi - IV - V - I",
+            "C": "ii - V7 - Imaj7 - IV - V7 - vi - II7 - V7 - I",
+            "R": "vi - IV - I - V - vi - IV - V7 - I",
+            "P": "ii - V - I - IV - ii - V - IV - V7",
+            "I": "I - vi - IV - V7",
+            "O": "IV - I - V - vi - IV - V - I",
+            "S": "vi - II7 - V7 - I - I7 - IV - V7 - ii - IV - I - ii - V7 - IV - Iaug"
+        },
+        "Call-and-Response Gospel": {
+            "A": "I - IV - I - IV - V7 - I - IV - V7 - I",
+            "B": "IV - V - I - V7 - IV - I - IV - V7 - I",
+            "C": "ii7 - V7 - Imaj7 - ivm7 - V7/4 - I7 - V7 - IV7 - I7",
+            "R": "ii7 - V7 - I - VImaj7 - ii7 - V7 - I - IV7",
+            "P": "ii7 - V7 - I - IVmaj7 - I7 - ii7 - V7",
+            "I": "I - IV - I - IV - ii - V7 - I",
+            "O": "I - IV - ii7 - V7 - I - V7 - IV - I",
+            "S": "IV - vii\u00b0 - I - V7 - IV - I - ii7 - V7"
+        },
+        "Southern Gospel Shout": {
+            "A": "I - IV - I - V7 - I - IV - V7 - I",
+            "B": "IV - I - ii - V7 - IV - V7 - I - IV - V7 - I",
+            "C": "ii7 - V7 - I - iii7 - IV7 - ii7 - V7 - I - IV7 - V7 - I6/9",
+            "R": "II7 - V7 - I - IV - I7 - IV - V7 - I",
+            "P": "ii7 - V7 - I - IV - V7 - I7 - IV7 - ii - V7 - I",
+            "I": "I - IV - II7 - V7 - I",
+            "O": "I - IV - V7 - I - ii - V7 - I - IV - V7 - I",
+            "S": "I - ii - V7 - I - IV - V7 - I"
+        },
+        "Modern Contemporary Worship": {
+            "A": "I - IV - vi - V - IV - I - ii - V7",
+            "B": "I - IV - ii - V7 - I - IV - V7 - I",
+            "C": "ii - V7 - I - vi - IV - ii7 - V7 - I",
+            "R": "vi - IV - I - V7 - IV - ii - V7 - I",
+            "P": "ii - V/V - V - I - IV - V/V - V",
+            "I": "I - V - vi - IV",
+            "O": "IV - V - vi - I - IV - V - I - I7 - ii - V - I",
+            "S": "I - IV - vi - IV - I - II7 - V7 - I"
+        }
+    },
+    "Musical Theatre": {
+        "Musical Theatre Standard": {
+            "A": "I - IV - ii7 - V7 - vi - ii7 - V7 - I",
+            "B": "II7 - V7 - I - VI7 - II7 - V7 - I",
+            "C": "IV - vii\u00b07 - III7 - VI - ii7 - V7 - I",
+            "R": "ii - V7 - I - IV - ii7 - V7 - IMaj7",
+            "P": "ii - V7 - vi - ii7 - V7 - I7",
+            "I": "I - VI - II7 - V7",
+            "O": "I - V7 - IV - II7 - V7 - I",
+            "S": "I - vi - ii\u00b07 - V7 - I"
+        },
+        "Broadway Ballad": {
+            "A": "I - IV - vii\u00b0 - III - VI - ii - V - I",
+            "B": "vi - IV - ii7 - V7 - Iaug - vi - IV - V7",
+            "C": "ii - V7/ii - ii7 - V7 - III7 - vi - ii - V7 - I6/9",
+            "R": "ii - V7 - IV - I - ii - V7 - I6/9",
+            "P": "ii - V7 - I - IV6 - ii7 - V7 - I",
+            "I": "I - vi - IV - V7",
+            "O": "IV - V7 - I - Imaj7 - IV - V7 - I - II7 - V7 - Imaj7",
+            "S": "I - vi - IV - V7 - ii - IV - V7 - I"
+        },
+        "Big Show Finale": {
+            "A": "I - IV - iiim7 - VI7 - ii - V - I7 - IV - V7 - I",
+            "B": "IV - V - I - V7 - IV - IImaj7 - V7 - I6/9 - IV - V - I7",
+            "C": "VIImaj7 - III7 - VImaj7 - II7 - I7#9 - IVmaj7 - V7 - IV7 - Imaj7",
+            "R": "ii - V7 - I - vi - IV - V7 - ii - V7 - I",
+            "P": "ii - V - I - IV - ii7 - V7 - Iaug7",
+            "I": "I - V - IV - V7 - I6 - IV - ii7 - V7 - I",
+            "O": "I - IV - V7 - I - IV - V7 - I - IV - II7 - V7 - Imaj7",
+            "S": "ii - V7 - I - IV - vii\u00b0 - V7 - I"
+        },
+        "Vaudeville Classic": {
+            "A": "I - IV - ii7 - V7 - I - IV - V7 - I6",
+            "B": "IV - I - II7 - V7 - I - vi - IV - II7 - V7 - I",
+            "C": "VImaj7 - II7 - V7 - IIImaj7 - VI7 - II7 - V7 - I7",
+            "R": "ii - V7 - I - vi - IV - V7 - I",
+            "P": "IIm7 - V7 - IIm7 - V7 - I - VIm7 - II7 - V7",
+            "I": "I - IV - II7 - V - I6/9",
+            "O": "I - IV - V7 - ii - V7 - I6 - IV - I",
+            "S": "I - iii7 - vi - IV - ii\u00f8 - V7 - I"
+        },
+        "Golden Age Broadway Tune": {
+            "A": "I - IV - ii7 - V7 - I - vi - IV - II7 - V7 - I",
+            "B": "IV - ii7 - V7 - I6 - ii7 - V7 - I",
+            "C": "II7 - IIImaj7 - IV - iv - I7 - VImaj7 - II7 - V7",
+            "R": "ii - V7 - I - IV7 - ii7 - V7 - I6/9 - IV - I",
+            "P": "ii - V7 - I6 - ii7 - V7 - I - IV - I7 - IV7 - I7 - V7",
+            "I": "I - vi - IV - V7",
+            "O": "IV - ii7 - V7 - I6 - ii7 - IV - I",
+            "S": "ii - V7 - I - ii7 - V7 - I - IV - I - vi - ii7 - V7 - I"
+        },
+        "Modern Rock Musical": {
+            "A": "i - IV - V - iv - II7 - V7 - i",
+            "B": "vi - IV - I - V7 - IV - ii - V7",
+            "C": "ii - V7 - vi - IV - III7 - ii - V7 - I",
+            "R": "iim7 - V7 - vim7 - IVmaj7 - ii7 - V7",
+            "P": "vi - IV - V - III7 - IV7",
+            "I": "i - IV - V - ii - V7",
+            "O": "vi - iv - I - V7 - iv - I - I6/9",
+            "S": "i - IV - V - i7 - IV - ii7 - V7 - i"
+        }
+    },
+    "Classical": {
+        "Avant-Garde Classical": {
+            "A": "I - ii7 - V7 - IIIaug - vi - IV - vii\u00b0 - I",
+            "B": "vi - ii\u00b07 - V7 - I6 - IV - vii\u00b07 - Iaug7 - ii - V7 - I",
+            "C": "vi\u00b0 - IVaug7 - ii7b5 - V7#5 - Iaug - vii\u00b07 - I6/9",
+            "R": "i\u00b0 - IIaug7 - iii - IVmaj7 - iii - VI - ivm7 - V7b5",
+            "P": "ii\u00b07 - V7 - Iaug - IV7#5 - vii\u00b07 - IIaug - V7b9 - I",
+            "I": "i - iv\u00b07 - V7#11 - Iaug - IImaj7 - vii\u00b07 - i6",
+            "O": "ii\u00b07 - VIaug - iii - ii\u00b07 - I6/9",
+            "S": "i\u00b0 - iv - V7#9 - ii\u00b07 - IIIaug - vi7 - Isus4 - V7"
+        },
+        "Impressionist Dream": {
+            "A": "ii - V7 - I - IVmaj7 - ii7 - V7 - I6/9",
+            "B": "ii7 - V9 - Imaj7 - vi - IV - vii\u00b07 - III - V13 - Imaj9",
+            "C": "ii7 - V7 - Imaj7 - II7#11 - vii\u00b07 - IIIaug7 - VI9 - ii - V7b9 - I6/9",
+            "R": "ii7 - V7 - iii - VIaug - ii7 - V7 - I6/9",
+            "P": "ii7 - V7 - I - vi - IVmaj7 - V7#9 - I7",
+            "I": "iim7 - IVmaj7 - viim7b5 - IIIaug7",
+            "O": "iv - ii\u00b07 - I6 - vii\u00b07 - I6/9 - iii - ii7 - V7 - i",
+            "S": "ii7 - V7 - Iaug - IV - iii7b5 - vi - ii - V7 - Imaj7"
+        },
+        "Electronic Classical Hybrid": {
+            "A": "i7 - IV - V - iv7 - VI - II - iv - V - i7",
+            "B": "i - VI - III7 - IV - V7 - i - VI - IVaug7 - V7",
+            "C": "i - VI - iv7 - V7 - ii\u00b0 - V7/VI - v7 - Iaug",
+            "R": "ii - V7 - I - iv - ii7 - V7 - Iaug",
+            "P": "ii - V7 - vi - IVmaj7 - V7",
+            "I": "i - iv - V - iii7 - VI7 - iv - ii\u00b07 - Iaug",
+            "O": "i - IV - Vmaj7 - vi - IV - ii - V7 - I - ii\u00b07 - V7 - I",
+            "S": "ii9 - iv - VI7 - ii\u00b07 - Vaug7 - I7#9"
+        },
+        "Early Music (Renaissance & Medieval)": {
+            "A": "i - iV - V - i",
+            "B": "i - VI - iv - VII - i - iv - ii - VI - iv - VII - i",
+            "C": "IV - V - vi - iii - IV - V - I",
+            "R": "i - iv - V - i",
+            "P": "i - iv - V - iv",
+            "I": "I - IV - V - I",
+            "O": "i - iv - V - i",
+            "S": "ii - v - I - IV - vii\u00b0 - I"
+        },
+        "Baroque Cadence": {
+            "A": "I - IV - ii - V - I",
+            "B": "I - IV - V - ii7 - V - I",
+            "C": "ii - V7 - I - vii\u00b07 - IV - ii - V - I",
+            "R": "ii - V7 - I6 - IV - vii\u00b0 - I",
+            "P": "i - iv - V - i - ii\u00b0 - V7 - i",
+            "I": "I - IV - V - I",
+            "O": "I - IV - V7 - I - ii6 - V7 - I",
+            "S": "ii - V7 - I - vii\u00b07 - I"
+        },
+        "Gothic Choral Progression": {
+            "A": "i - iv - v\u00b0 - i6 - ii\u00b0 - V7 - i",
+            "B": "vi - iv - i - V7 - i - vi - V7 - i",
+            "C": "vi - ii - iv\u00b0 - III7 - vi - V7 - II - ii\u00b0 - vi",
+            "R": "vi - ii\u00b0 - V7 - i - IV - V7 - i",
+            "P": "ii - vi\u00b0 - V7 - I - III - iv - V7",
+            "I": "i - iv6 - ii\u00b0 - V7 - i6 - iv - V7 - i",
+            "O": "i - VI - VII - i - VI - IV - V - i",
+            "S": "i - v\u00b0 - iii - vi"
+        },
+        "Sacred Choral Hymn": {
+            "A": "I - IV - ii - V - I",
+            "B": "IV - I - V - I - IV - ii - V - I",
+            "C": "vi - IV - ii - V7 - Imaj7 - IV - V - I",
+            "R": "vi - II7 - V - I - IV - V - vi - II7 - I",
+            "P": "ii - V7 - I - IV - vii\u00b0 - I - IV - V7",
+            "I": "I - IV - V - I",
+            "O": "I - IV - V - I - vi - IV - V - I",
+            "S": "I - ii - iii - I6 - ii - V7 - I"
+        },
+        "Dramatic Opera Cadence": {
+            "A": "i - iv - V7 - i",
+            "B": "I - V/V - V7 - I6 - IV - V7 - I",
+            "C": "VI - IV - ii - V - I - iii - vi - IV - ii - ii\u00b0 - V7 - I",
+            "R": "V/vi - vi - IV - V7/IV - IV - ii\u00b07 - V - I",
+            "P": "ii - V7 - vi - IV7 - V7 - I6 - iii - IV - ii7 - V7 - I",
+            "I": "i - iv - V7 - i",
+            "O": "V7 - I - IV - V7 - I - ii6 - V7 - I",
+            "S": "i - iv - V7 - iv - V7 - i"
+        },
+        "A Cappella Choral Harmony": {
+            "A": "I - IV - V - I - ii - V - I",
+            "B": "IV - vi - ii - V7 - I",
+            "C": "vi - IV - ii - V7 - III - vi6/9 - ii7 - V7/I - IV - I6/9",
+            "R": "ii - V7 - I - IV - iii - vi - ii - V7 - I",
+            "P": "ii - V - I - vi - IV - ii - V7",
+            "I": "I - IV - V - I",
+            "O": "V - vii\u00b0 - I - vi - IV - V - I",
+            "S": "I6 - IV - V7 - I"
+        },
+        "Romantic Period Resolution": {
+            "A": "I - IV - vii\u00b0 - I - ii - V7 - I",
+            "B": "V - IV - iii - VI - ii - V7 - I",
+            "C": "ii7 - V7 - vi - V7/iii - iii7 - vi - IV - I6/4 - V7 - I",
+            "R": "ii - V7 - I6 - IV - ii7 - V7 - I",
+            "P": "ii - V7 - I - IV - V7 - I",
+            "I": "I - IV - V7 - I",
+            "O": "ii - V7 - I - IV - I6 - V - I",
+            "S": "I - vi - IV - V7 - I"
+        },
+        "Late Romantic Grand Finale": {
+            "A": "I - IV - V - vii\u00b0 - IImaj7 - V7 - I",
+            "B": "I - V7/V - vm7 - IV - I - IV - V7 - I",
+            "C": "vi - IV - V7 - I - VI - ii - V - I - V/vi - vi - ii\u00b07 - V7 - I",
+            "R": "i - IV - V - i - V/vi - vi - V - I - IV - V7 - I",
+            "P": "ii - V7 - I - vi7 - IV - V7 - I7",
+            "I": "I - V7 - IV - IVmaj7 - ii\u00b07 - Vaug7 - I7 - IV - V7 - I6 - IIaug - ivm7 - I9 - V7 - I",
+            "O": "V - IV - I6 - V7 - I",
+            "S": "i - iv - V7 - I - IV - vii\u00b07 - I"
+        },
+        "Contemporary Classical": {
+            "A": "I - IV - ii7 - V7 - I6 - ii - V7 - I",
+            "B": "Imaj7 - V7 - vi - IVmaj7 - ii\u00f8 - V7 - Imaj7 - IVmaj7 - V7",
+            "C": "ii - V7 - I6 - IVmaj7 - vii\u00b07 - iii - vi - II7 - V7",
+            "R": "vi - ii\u00b0 - V7 - I6/9 - IIImaj7 - vim7 - II7 - V7 - I",
+            "P": "ii - V7 - I6 - IV - vii\u00b0 - I",
+            "I": "I - IV - vii\u00b0 - II7 - Vaug - I6 - IVmaj7 - V7 - I",
+            "O": "ii7 - V7 - I - vi - IV - IImaj7 - V7 - I",
+            "S": "vi - ii\u00f8 - V7 - IIImaj7 - iiseq2 - VI7"
+        },
+        "Minimalist Classical Repetition": {
+            "A": "I - V - i - V",
+            "B": "i - i - IV - IV",
+            "C": "ii - V7 - ii - IV - V - ii - IV - I7",
+            "R": "i - iv - V - iv - V - i",
+            "P": "i - iv - v - iv - ii\u00b0 - vii\u00b0 - I6/9 - IV6/9",
+            "I": "i - i - iv - iv",
+            "O": "i - i - iv - iv - v - v - i - i",
+            "S": "i - iv - v - iv"
+        },
+        "Baroque Romantic Fusion": {
+            "A": "I - IV - ii7 - V7 - I6 - IV - ii\u00b07 - V7 - I",
+            "B": "ii - V7 - I - IV - vii\u00b07 - iii - IV - V7 - I",
+            "C": "vi - IV - IImaj7 - V7 - III - vii\u00b0 - I6 - IV - V7",
+            "R": "ii7 - V7 - I6 - IV7 - V7/I - IV - viim7b5 - V7",
+            "P": "ii7 - V7 - vi - IV7 - Iaug - V7 - vi - IV7",
+            "I": "I - vi - IV - ii7 - V7 - iii - ii7 - I6 - IV - V7 - I",
+            "O": "I - vi - ii - V7 - Imaj7 - IV - iii - vii\u00b07 - I",
+            "S": "i - IV - V7 - ii - IV - i\u00b07 - V7 - i"
+        },
+        "Minimalist Classical": {
+            "A": "I - ii - I - ii - IV - V - IV - I",
+            "B": "ii - vi - IV - I - ii - V7 - I",
+            "C": "I - I - ii - ii - V - V - iii - iii",
+            "R": "i - iv - V7 - iv - i\u00b0 - V7 - i",
+            "P": "iv - ii - vii\u00b0 - V7",
+            "I": "i - iv - i - iv - i",
+            "O": "i - iv - v - iv - i",
+            "S": "i - iv - vii\u00b0 - iv"
+        },
+        "Orchestral Epic Build": {
+            "A": "i - iv - V - iii - VI - ii - V - I",
+            "B": "I - V - vi - IV - I - IV - V7 - I",
+            "C": "vi - IVmaj7 - V7 - IIIaug - vii\u00b07 - I6/9 - IV - V7 - I",
+            "R": "ii - V7 - I6 - ii7 - vii\u00b0 - I - IV - V7 - I",
+            "P": "ii - V7 - I - V7 - ii - iv - V7 - I",
+            "I": "i - iv - V - I - IV - iv - ii\u00b0 - I6 - V7 - I",
+            "O": "ii - V7 - I - IV - vii\u00b07 - I6 - ii - I",
+            "S": "vi - IV - ii\u00f8 - V7 - I - ii7 - V - I6/4 - IV - V7 - I"
+        },
+        "Neoclassical": {
+            "A": "I - IV - ii - V - I - vi - IV - V7 - I",
+            "B": "I - IV - V - IV - I - vi - II7 - V7",
+            "C": "vi - V7/V - V7 - vi - II7 - V7/ii - ii - V7/Vi - vi - I7 - V7 - I",
+            "R": "iv - V/V - V - I6/4 - V7 - I",
+            "P": "ii - V - I - IV - vii\u00b0 - V - I",
+            "I": "i - iv - V7 - i - VI - ii\u00b07 - V7 - i",
+            "O": "ii - V7 - I - IV - Iadd9 - vi - V7 - I",
+            "S": "ii - V7 - I - IV - vii\u00b0 - I6 - ii7 - V7"
+        },
+        "Film Score Soundscape": {
+            "A": "i - iv - V7 - I - ii - V - I",
+            "B": "ii - V7 - Imaj7 - IV - ii - vii\u00b0 - I6",
+            "C": "vi - IV - ii7 - V7 - iii - vii\u00b07 - I",
+            "R": "II7 - VImaj7 - IVdim7 - Iaug - II7 - vii\u00b0",
+            "P": "ii - V7 - iii - vi - IV7 - I7 - V7 - II7 - V7",
+            "I": "i - iv - vii\u00b0 - Iaug - IV - vi\u00b07 - i",
+            "O": "i - iv - iii - VImaj7 - vii\u00b0 - I6 - IV - V7 - i",
+            "S": "i - IV - vii\u00b0 - i6/9"
+        },
+        "Chamber Opera": {
+            "A": "I - IV - V - I - vi - IV - V - II7 - V7 - I",
+            "B": "I - V7 - vi - IV - ii7 - V7 - I",
+            "C": "I - vi - IV - ii\u00b0 - V7 - iii - VI7 - ii - V7 - IV - I",
+            "R": "ii7 - V7 - I - vi - IV - V7 - I - IV6",
+            "P": "ii7 - V7 - vi - V7/IV - IV - ii7 - V7/III - Iaug7",
+            "I": "i - iv - V7 - i - ii - V7 - i",
+            "O": "I - IV - V7 - vi - II7 - V7/4 - I6 - ii - V7 - I",
+            "S": "iv - vii\u00b0 - I - ii6 - V7 - I"
+        },
+        "Symphonic Poem Progression": {
+            "A": "I - IV - ii - V7 - I - vi - IV - V7",
+            "B": "I - V - ii - V/I - IV - I6 - ii7 - V7 - I",
+            "C": "II7 - V7/IV - IVmaj7 - bII7 - II7 - V7 - I6/4 - V7 - I",
+            "R": "ii - V7 - I - iv - vii\u00b0 - iii - VI - ii - V7 - I - iv - V7",
+            "P": "ii - V7 - I - vi - IV - V7 - I",
+            "I": "I - vi - IV - V7",
+            "O": "I - V - vi - IV - I - IV - ii7 - V7 - I",
+            "S": "ii - V7 - i - IVaug"
+        },
+        "Spectral Music": {
+            "A": "i - iv - vii\u00b0 - iv - ii - vi - i - ii\u00b0 - i",
+            "B": "i - ii\u00b07 - VI - v - i - IIIaug - VI - II - vii\u00b07",
+            "C": "i - iv - v\u00b0 - Iaug7 - II7#9 - vii\u00b07 - I7#11 - vi\u00f87",
+            "R": "ii - v\u00b0 - i - IV - vii\u00b0 - Iaug - ii - ii\u00b07 - iv - vii\u00b0",
+            "P": "ii - vi - IV - ii\u00b07 - V7",
+            "I": "i\u00b0 - iv\u00b0 - vi - iii\u00b07 - ii - I",
+            "O": "i - iv - vii\u00b0 - ii - vii\u00b0 - i",
+            "S": "i - iv - v\u00b0 - iv"
+        },
+        "Traditional Classical": {
+            "A": "I - IV - ii - V - I",
+            "B": "IV - vii\u00b0 - I - V7 - IV - I - V7 - I",
+            "C": "ii - V7 - I - IV - V7 - ii - I6/4 - V7 - I",
+            "R": "ii - V7 - I - IV - vii\u00b0 - III - vi - ii - V7 - I",
+            "P": "ii - V7 - I - vii\u00b0 - V7 - I",
+            "I": "I - IV - V - I",
+            "O": "IV - I - V - I - vi - IV - ii\u00b07 - I",
+            "S": "ii - V - I - IV - vii\u00b0 - iii - IV - I"
+        }
+    },
+    "Latin": {
+        "Bossa Nova Standard": {
+            "A": "IIm7 - V7 - Imaj7 - IVmaj7 - VII7 - IIIm7 - VI7 - II7 - V7",
+            "B": "ii - V7 - I - VI7 - ii7 - V7 - I - Imaj7",
+            "C": "ii7 - V7 - I - IIImaj7 - VI7 - ii7 - V7 - I6/9",
+            "R": "ii7 - V7 - iiim7 - VI7 - ii7 - V7 - IMaj7",
+            "P": "ii7 - V7 - iii7 - VI7 - ii7 - V7 - IImaj7 - V7",
+            "I": "ii7 - V7 - Imaj7 - IVmaj7 - iii7 - vi7 - II7 - V7",
+            "O": "ii7 - V7 - I6 - II7 - V7 - I6 - V7 - II7 - V7 - I6 - II7 - V7",
+            "S": "ii7 - V7 - I - iii7 - vi7 - ii7 - V7 - I"
+        },
+        "Flamenco Tango Cadence": {
+            "A": "i - IV - III - II7",
+            "B": "i - IV7 - V7 - iv - i - V7 - i",
+            "C": "i - iV - III7 - VI - II - V7 - i - IV7 - III7 - IIb9 - i - V7 - i",
+            "R": "iV - III7 - II7 - I7",
+            "P": "i - IV - V7 - II - i - iv - II - II7",
+            "I": "i - VII - VI - V7",
+            "O": "i - IV - V - iv - i",
+            "S": "i - VII - VI - V"
+        },
+        "Salsa Mambo Classic": {
+            "A": "ii7 - V7 - i - IV7 - ii7 - V7 - i - V7",
+            "B": "ii7 - V7 - I - IV7 - V7 - iim7 - V7 - I7",
+            "C": "V7 - II7 - IIIm7 - VI7 - VIIm7b5 - III7b9 - VI7 - V7",
+            "R": "ii7 - V7 - Imaj7 - IV7 - ii7 - V7 - I7",
+            "P": "ii - V7 - I - IV - ii - V7 - I7 - IV7",
+            "I": "I - IV - V7 - I7 - IV - II7 - V7 - I",
+            "O": "ii7 - V7 - Imaj7 - IV7 - ii7 - V7 - Imaj7",
+            "S": "II7 - V7 - I - I7 - IVmaj7 - VII7 - III7 - VI7 - II7 - V7 - I"
+        },
+        "Bolero Progression": {
+            "A": "i - iv - V7 - iv",
+            "B": "i - iv - V7 - i7 - iv - V7 - i",
+            "C": "vi - ii - V7 - iii - vi7 - II - V7 - I",
+            "R": "ii - V7 - I - IV - V7 - I",
+            "P": "ii7 - V7 - vi - V7",
+            "I": "I - IV - V - IV",
+            "O": "I - iv - V7 - IV - I - V7 - IV - I",
+            "S": "i - iv - v - iv"
+        },
+        "Afro-Cuban Son Clave": {
+            "A": "ii - V7 - I - VI7 - ii - V7 - I",
+            "B": "ii7 - V7 - I - VI7 - II7 - V7 - I",
+            "C": "ii7 - V7 - i - IV7 - V7 - i - VI7 - V7b9",
+            "R": "ii7 - V7 - vi - IV7 - II7 - V7 - I",
+            "P": "IV - V7 - iv - IV - V7 - ii7 - V7 - I",
+            "I": "ii - V7 - Imaj7 - IV7",
+            "O": "ii - V7 - I - IV - vi - ii - V7 - I",
+            "S": "ii - V7 - I - VI7 - ii - V7 - I - IV - V7 - I"
+        },
+        "Samba Groove": {
+            "A": "ii7 - V7 - IMaj7 - VI7 - ii7 - V7 - I7",
+            "B": "ii7 - V7 - Imaj7 - VI7 - ii7 - V7 - Imaj7",
+            "C": "II7 - V7 - Imaj7 - VImaj7 - II7 - V7 - Imaj7",
+            "R": "ii7 - V7 - Imaj7 - IV7 - ii7 - V7 - I6",
+            "P": "ii7 - V7 - im7 - IV7 - V7",
+            "I": "ii7 - V7 - Imaj7 - VI7 - ii7 - V7 - Imaj7",
+            "O": "ii7 - V7 - I - vi7 - ii7 - V7 - I6/9",
+            "S": "ii7 - V7 - i - IV7 - ii7 - V7 - i - IV7"
+        },
+        "Latin Jazz Fusion": {
+            "A": "ii7 - V7 - Imaj7 - IV7 - V7 - vii\u00b07 - III7 - VI7 - ii7 - V7 - Imaj7",
+            "B": "iim7 - V7b9 - Imaj7 - VI7 - iim7 - V7b9 - IVmaj7 - \u266dVII7",
+            "C": "II7 - V7 - I - VI7 - II7 - V7 - Imaj7 - IV7 - III7 - VI7 - II7 - V7 - I",
+            "R": "ii7 - V7 - vi - ii7 - V7 - III7 - vi - II7 - V7",
+            "P": "ii9 - V7#9 - vi - IV7 - II7b9 - V13#11 - I7",
+            "I": "ii7 - V7 - Imaj7 - IV7 - ii7 - V7 - Imaj9 - VI7",
+            "O": "ii7 - V7 - Imaj7 - vi7 - ii7 - V7 - Imaj9 - ii7 - V7 - Imaj13",
+            "S": "ii7 - V7 - I7 - II7#11 - II7b9 - I7"
+        },
+        "Corridos Tumbados": {
+            "A": "i - iv - V7 - iv",
+            "B": "i - iv - VII7 - iv",
+            "C": "iim7 - V7 - Imaj7 - IV7 - ii7 - V7 - Imaj7",
+            "R": "i - VI7 - iv - V7 - i",
+            "P": "iv - V7 - i - V7",
+            "I": "i - iv - V7 - i",
+            "O": "i - iv - V7 - iv - i",
+            "S": "i - iv - V7 - iv"
+        },
+        "Banda": {
+            "A": "I - IV - V - IV - II7 - V7 - I",
+            "B": "I - V7 - vi - IV - V7",
+            "C": "II - V7 - I - IV - II - V7 - I",
+            "R": "ii - V7 - vi - V7/IV - IV - V7/IV - IV - V7 - I",
+            "P": "ii - V7 - IV - ii7 - V7 - I",
+            "I": "I - V - vi - IV - I - IV - V7 - I",
+            "O": "I - IV - V7 - I - V7 - IV - I",
+            "S": "i - V - i - V7 - iv - ii - V7 - i"
+        },
+        "Norte\u00f1o": {
+            "A": "I - IV - V - IV - V - I",
+            "B": "I - IV - V - ii - V7 - I",
+            "C": "ii - V7 - I - IV - V7 - ii - V7 - I",
+            "R": "i - iv - V7 - i - vii\u00b0 - V7",
+            "P": "ii - V7 - I - II7 - V7",
+            "I": "I - IV - V - IV - I",
+            "O": "I - IV - V7 - I - IV - V7 - I",
+            "S": "iv - v - i - II7 - V7"
+        },
+        "Mariachi": {
+            "A": "I - IV - V - IV - ii - V - I",
+            "B": "I - IV - V - IV - I - V - IV - ii - V",
+            "C": "ii - V7 - Imaj7 - IV - V7 - vi - II7 - V7 - Imaj7",
+            "R": "ii - V7 - Imaj7 - IVmaj7 - II7 - V7 - i",
+            "P": "ii - V7 - I - V7 - ii7 - V7 - Imaj7",
+            "I": "I - IV - V - IV - I - IV - V7 - I",
+            "O": "V - I - IV - V7 - I",
+            "S": "i - iv - V7 - iv - i - iv - V7 - i"
+        }
+    },
+    "Reggae, Ska & Dub": {
+        "Classic Reggae Groove": {
+            "A": "I - IV - V - IV",
+            "B": "vi - IV - V - IV - I",
+            "C": "ii - V7 - I - IV",
+            "R": "ii - V - I - IV - V - IV - ii",
+            "P": "ii - V - IV - I7",
+            "I": "I - IV - V - IV",
+            "O": "I - IV - V - I - IV - I - V - IV",
+            "S": "i - iv - V7 - iv"
+        },
+        "Modern Reggae Ballad": {
+            "A": "i - IV - V - iv",
+            "B": "vi - IV - V - IV - I - V - vi - IV",
+            "C": "vi - IV - V - iii7 - IV - I - IV - V7 - vi",
+            "R": "ii - V7 - I - IV - vii\u00b0 - ii - V7 - I",
+            "P": "iim7 - V7 - vi - IVmaj7",
+            "I": "I - ii - IV - V7 - IV - I",
+            "O": "V - IV - I - IV - V - IV - I - Imaj7",
+            "S": "i - iv - V - iv"
+        },
+        "Ska Jazz Progression": {
+            "A": "i - iv - V7 - iv",
+            "B": "ii - V - Imaj7 - IVmaj7 - ii - V - I7",
+            "C": "vi - ii - V7 - III7 - vi - IV - V7 - I7",
+            "R": "ii - V7 - I - VI7 - II7 - V7",
+            "P": "ii - V7 - IImaj7 - V7 - Imaj7 - IV7 - V7 - vi",
+            "I": "ii - V7 - I - VI7 - ii7 - V7",
+            "O": "I - V - IV - ii7 - V7 - I",
+            "S": "ii7 - V7 - I7 - IV7 - V7 - vii\u00b07 - I7"
+        },
+        "Dub Groove": {
+            "A": "iim7 - V7 - I - IV7",
+            "B": "ii - V - I - IV7 - vi - ii - V - I7",
+            "C": "ii - V - I - V7 - Ivmaj7 - IV - vii\u00b07 - I7",
+            "R": "vi - IV - V - ii7 - I7",
+            "P": "ii - V - I - IVmaj7",
+            "I": "i - IV - V - IV",
+            "O": "i - iv - V7 - iv - i",
+            "S": "I - ii - I - IV - V7 - IV - I"
+        },
+        "Rocksteady Rhythm": {
+            "A": "I - IV - V - IV - I",
+            "B": "IV - I - V - IV",
+            "C": "ii - V - I - IV - V7 - ii - V - I7",
+            "R": "iv - I - V - IV - I - vi - V - IV",
+            "P": "ii - V - I - IV7",
+            "I": "I - IV - V - IV",
+            "O": "I - IV - V - IV - I - ii - V - I",
+            "S": "i - IV - V7 - i - VI - II7 - V7 - i"
+        },
+        "Dancehall Beat": {
+            "A": "i - IV - V - IV - i",
+            "B": "iv - IV - I - V7",
+            "C": "ii - V - VI - VImaj7 - IV - V7 - ii",
+            "R": "ii - V - I - IV - ii7 - V7",
+            "P": "ii - V - I - IV",
+            "I": "iim7 - V7 - iim7 - V7",
+            "O": "i - IV - V - i - IV - V - iv - V",
+            "S": "I - vi - IV - V7"
+        },
+        "Lovers Rock Cadence": {
+            "A": "I - IV - ii - V7",
+            "B": "VI - II - V - I7",
+            "C": "ii - v - I - IV - V7 - IV - ii7 - V7",
+            "R": "ii - V7 - vi - IV - V7 - ii - IV - V7",
+            "P": "ii - V - I - IV - vii\u00b07 - III7 - vi - II7",
+            "I": "ii - V - I - IV",
+            "O": "I - vi - IV - V7 - I - vi - IV - V7",
+            "S": "iim7 - V7 - I - IV - V7 - IVmaj7 - I - II7 - V7"
+        }
+    },
+    "Country & Folk": {
+        "Classic Country": {
+            "A": "I - IV - V - I",
+            "B": "IV - I - V - IV - I - V7 - IV - I - IV - V7 - I",
+            "C": "IV - vi - ii7 - V7",
+            "R": "II - V7 - I - IV - V7 - I",
+            "P": "IV - I - V7 - IV - V7",
+            "I": "I - IV - V - I",
+            "O": "I - IV - V - IV - I - II7 - V7 - I",
+            "S": "I - IV - V - I - ii - V7 - IV - I"
+        },
+        "Bluegrass Honky Tonk": {
+            "A": "I - IV - V - IV - I - II - V7 - I",
+            "B": "I - I7 - IV - V7 - I",
+            "C": "I - IV - V7 - IV - ii - V7 - I - IV - IV7 - I - V7 - I",
+            "R": "V - vii\u00b0 - IV - ii7 - V7",
+            "P": "ii - V7 - I - IV - I7 - IV - V7",
+            "I": "I - IV - V - I",
+            "O": "I - IV - V - I - V - IV - I - V7 - I",
+            "S": "V - ii - IV - V7"
+        },
+        "Americana Heartland Rock": {
+            "A": "I - IV - I - V - IV - I - V - IV",
+            "B": "IV - I - V - IV - V - I",
+            "C": "vi - IV - I7 - ii - V7 - IV - I7",
+            "R": "vi - IV - I - V7",
+            "P": "II - V - I - IV - V7",
+            "I": "I - IV - V - IV",
+            "O": "I - IV - V - I - IV - V7 - I - IV - I - V - IV - I",
+            "S": "I - ii - III7 - IV - V - IV - I - II7 - IV - V - I"
+        },
+        "Country Waltz Cadence": {
+            "A": "I - IV - V - I - IV - ii - V - I",
+            "B": "I - IV - I - V - IV - I - V7 - I",
+            "C": "ii - V7 - I - IV - I7 - V7 - I - ii7 - V7 - I",
+            "R": "IV - ii7 - V7 - I",
+            "P": "ii - V7 - I - IV",
+            "I": "I - IV - V - I",
+            "O": "I - V - IV - IV - V - I - II - V - I",
+            "S": "I - ii7 - V7 - I"
+        },
+        "Folk Fingerpicking": {
+            "A": "I - IV - ii - V7 - I",
+            "B": "I - V - IV - I - IV - V7 - I",
+            "C": "ii - V - vi - IV - I - IV - V - I",
+            "R": "ii - V7 - IV - I",
+            "P": "IV - vi - IImaj7 - V7",
+            "I": "I - IV - I - V",
+            "O": "I - IV - V - IV - I - II - V - I",
+            "S": "ii - V7 - I - iv - V7 - I"
+        },
+        "Appalachian Ballad": {
+            "A": "I - IV - I - V - I - IV - V - I",
+            "B": "I - V - vi - IV - I - V - IV - I",
+            "C": "ii - V7 - I - IV - vii\u00b0 - I - V7 - I6",
+            "R": "iv - V7 - I - vi - ii - V7 - I",
+            "P": "ii - V - I - IV - V7",
+            "I": "I - IV - ii - V",
+            "O": "I - IV - V - I - IV - V7 - I - ii - V7 - I",
+            "S": "i - iv - V7 - i"
+        },
+        "Outlaw Country Progression": {
+            "A": "I - IV - V - I",
+            "B": "IV - I - ii - V7",
+            "C": "ii - V7 - I - vi - IV - V7 - I - I7",
+            "R": "vi - II7 - V - I7",
+            "P": "ii - V7 - IV - I7",
+            "I": "I - IV - V - I",
+            "O": "I - V - IV - V7 - I - IV - V - I",
+            "S": "I - I7 - IV - iv - I - V - I - I"
+        }
+    },
+    "Film Score & Cinematic": {
+        "Epic Cinematic Swell": {
+            "A": "i - VI - III - VII - iv - II - V - i",
+            "B": "Imaj7 - IV - vii\u00b0 - I - VImaj7 - ii - V7 - I - IIIaug - IV - vii\u00b0 - I",
+            "C": "ii - v - VI - IV7 - V7 - VII - vi - iii",
+            "R": "i - iv - V7 - ii\u00b0 - VImaj7 - III7 - IV - Iaug",
+            "P": "IImaj7 - VImaj7 - II7 - V13 - Imaj7",
+            "I": "i - III7 - VIaug - VII7 - imaj7 - VIaug - V7 - iim7b5 - V7#9",
+            "O": "vi - IV - I - V - I - ii - V7 - I",
+            "S": "vi - IV - I - V - ii\u00b0 - VII - ii - I7"
+        },
+        "Hans Zimmer Dark Progression": {
+            "A": "i - iv - VI - iv - V - iv - III - ii\u00b0",
+            "B": "vi - III7 - ii\u00b0 - V7 - IVmaj7 - I7#9",
+            "C": "i - iv - VI - iv - V7 - iii\u00b0 - II - VI7 - ii\u00b07 - i",
+            "R": "vi - ii\u00b0 - V7 - i7b9 - IVma7 - iii - ii - V7 - I",
+            "P": "i - iv\u00b0 - VI - VII7 - VImaj7",
+            "I": "i - iv - ii\u00b0 - VI7 - v - i",
+            "O": "iv7 - i - bVIImaj7 - bIII - i - bVII - iv - i",
+            "S": "i - ii\u00b0 - VI - iv7 - i - V7 - i\u00b0 - ii - i"
+        },
+        "Heroic Theme": {
+            "A": "I - IV - V - IV - I - vi - ii - V - I",
+            "B": "VI - IImaj7 - V7 - I - IV - V7 - imin/maj7 - Iaug7",
+            "C": "VImaj7 - II7 - V7 - III7 - VIImaj7 - IV7 - V7 - I7#9",
+            "R": "II7 - V7 - I - III7 - IV - IV7 - I - V7",
+            "P": "viim7b5 - iiim7 - VI7 - IVmaj7 - vii\u00b0 - V7",
+            "I": "I - IV - V - IV - ii - V - I",
+            "O": "I - V - vi - IV - I - IV - V - I",
+            "S": "i - IV - VII - i\u00b0 - IV - III7 - VI - V7"
+        },
+        "Emotional Swell": {
+            "A": "i - IV - VImaj7 - ii\u00b07 - I - VImaj7 - ii\u00b07 - V7",
+            "B": "vi - IV - I - V - vii\u00b0 - IV - ii - V7",
+            "C": "ii - V7 - I - vi - III - IV - V - Iaug7",
+            "R": "vi - IVmaj7 - I - V7 - iii - viim7b5 - IImaj7 - V7sus4 - V7",
+            "P": "ii - V - I6 - IV - IImaj7 - V7 - Iaug",
+            "I": "i - iim7 - IIImaj7 - iv - Vmaj7 - vi - vii\u00b07 - Iaug",
+            "O": "vi - IV - I - V7 - vi - IV - ii - I6 - vii\u00b07",
+            "S": "ii - VImaj7 - IV - Isus2 - vii\u00b07 - I"
+        },
+        "Suspense Thriller Motif": {
+            "A": "i - i\u00b0 - IV - V7#9 - vi - V7b9 - IV - i7",
+            "B": "i - iv - VI7 - iii\u00b07 - VII - V7 - i - i\u00b07 - VI7 - V7",
+            "C": "ii\u00b07 - V7#9 - vi - III7#9 - IImaj7 - V7 - ii\u00b07 - viim7b5 - Iaug7",
+            "R": "ii\u00b07 - V7 - vi - III7 - ii\u00b07 - V7 - Iaug",
+            "P": "ii\u00b07 - V7b9 - vi - V7#5b9 - Iaug",
+            "I": "i - i\u00b0 - II7 - v\u00b07 - i",
+            "O": "i\u00b07 - V7#9 - ivm7 - vii\u00b07 - im7 - bII7 - V13b9",
+            "S": "i - vi\u00b0 - iv - i - ii\u00b07 - vi - V7 - i"
+        },
+        "Sci-Fi Ambient Score": {
+            "A": "i - ivm7 - v\u00b0 - ii7 - i6",
+            "B": "i - ii - ii\u00b07 - iv - v7 - vi - v - IV - III - ii - Iaug7",
+            "C": "ii9 - viim7b5 - Iaug - ivm7 - VImaj7 - ii - VIaug7 - VINdim7",
+            "R": "i9 - iv\u00f8 - v\u00b07 - IIIaug7 - VI7b9 - ii - bIImaj7 - i7",
+            "P": "ii9 - iv\u00b07 - vi - iii7 - ii7 - I6 - V7#9",
+            "I": "i - iv - VI7 - ii\u00b07 - v - i",
+            "O": "i - IVmaj7 - vi - IVadd9 - ii\u00f8 - Iaug - iv - I",
+            "S": "i - iisus4 - Vmaj7 - iv\u00f87 - visus2 - IIIaug - VII7b9 - iadd9"
+        },
+        "Period Drama Theme": {
+            "A": "I - IV - VImaj7 - IV - IImaj7 - V - I",
+            "B": "vi - IV - II7 - V7 - I - IV - ii - V7 - I",
+            "C": "IImaj7 - V7b9 - Imaj7 - IV6 - vii\u00b07 - III7 - VIadd9 - ii7 - V13 - Iaug",
+            "R": "vi - II7 - VImaj7 - iii\u00b07 - IV - V7 - I",
+            "P": "ii - V7 - vi - IVmaj7 - ii - V7 - I7",
+            "I": "i - iv - V7 - i",
+            "O": "IImaj7 - V7 - Imaj7 - IVmaj7 - Imaj7 - IVmaj7 - II7 - V7",
+            "S": "i - iv - V7 - i\u00b0 - I - IV - V7 - I"
+        }
+    },
+    "World & Ethnic": {
+        "West African Polyrhythm": {
+            "A": "i - IV - V - IV - i",
+            "B": "I - V - IV - iv - I - II7 - V7 - I",
+            "C": "ii7 - V7 - vi - IV - V7 - I6",
+            "R": "i - IV - V - IV - ii - V - i",
+            "P": "ii - V - IV - iii7 - VI - V7",
+            "I": "i - IV - V - IV - i",
+            "O": "i - IV - V - IV - i - IV - v - IV - i",
+            "S": "v - i - vii\u00b07 - i"
+        },
+        "Bollywood Soundtrack": {
+            "A": "I - IV - vi - V - IV - ii - V - I",
+            "B": "I - IV - V - IV - ii - V - I - II7 - ii - V - I",
+            "C": "ii - V7 - I - IV - VIImaj7 - IIImaj7 - VIaug - ii - V7",
+            "R": "vi - IV - ii - V7 - III7 - vi - V7 - I",
+            "P": "iim7 - V7 - vi - iii7 - IV - V7",
+            "I": "I - IV - ii - V7 - I",
+            "O": "I - IV - V - IV - ii - V - Ivi - IIV - I",
+            "S": "vi - IV - V - vi - IV - V7 - II7"
+        },
+        "Klezmer": {
+            "A": "i - iv - V7 - i - iv - ii\u00f8 - V7 - i",
+            "B": "i - iv - V7 - i - ii - V7 - i",
+            "C": "i - iv - V7 - i - ii\u00b0 - V7 - i",
+            "R": "i - iv - iim7b5 - V7",
+            "P": "ii - V7 - i - IV - V7 - i",
+            "I": "i - iv - V7 - iv",
+            "O": "i - IV - v - i - VII - iv - II7 - i",
+            "S": "i - iv - V7 - iv"
+        },
+        "Zulu Isicathamiya": {
+            "A": "i - iv - V - i",
+            "B": "i - iv - V7 - iv - i",
+            "C": "i - iv - V - iv - i - V - iv - ii\u00b07 - V7",
+            "R": "i - IV - v - IV - i",
+            "P": "i - iv - V - iv",
+            "I": "i - iv - V - i",
+            "O": "i - iv - V7 - iv - i",
+            "S": "i - iv - V7 - iv"
+        },
+        "Japanese Koto Progression": {
+            "A": "i - IV - ii - V7 - iii - VI - ii - V7",
+            "B": "I - ii7 - V7 - I - IV7 - ii - V7 - I",
+            "C": "ii - V7 - IIImaj7 - vi7 - ii - V7 - I",
+            "R": "ii - V7 - I - VI7 - ii7 - V7",
+            "P": "iv - iim7 - VI - ii\u00b0 - V7",
+            "I": "i - iv - VII - III7",
+            "O": "i - iv - v - i - iv - i - VI7 - VII7",
+            "S": "vii\u00b0 - V7 - i - iv - ii\u00b0 - V7 - i"
+        },
+        "Nordic Folk": {
+            "A": "i - iv - VII - iv - i",
+            "B": "vi - IV - ii - V",
+            "C": "i - III - iv - VII",
+            "R": "i - iv - VII - III",
+            "P": "ii - V - iv - I7",
+            "I": "i - iv - VII - iv",
+            "O": "i - iv - VII - III - iv - i - VII - i",
+            "S": "i - vi - III - ii - V7"
+        },
+        "Tuvan Throat Singing": {
+            "A": "i - iv - v - iv",
+            "B": "i - IV - V - i",
+            "C": "i - iv - V7 - i - VII - ii - V7 - i",
+            "R": "i - iv - v - iv",
+            "P": "i - iv - V7 - iv",
+            "I": "i - iv - v - iv",
+            "O": "i - iv - v - iv",
+            "S": "i - iv - v - iv"
+        },
+        "Celtic Rock": {
+            "A": "i - iv - VII - III7",
+            "B": "I - IV - ii - V7 - I",
+            "C": "ii - V7 - vi - IV - V - iii - IV - I7",
+            "R": "vi - IV - ii - V",
+            "P": "IIm7 - V7 - vi - V7",
+            "I": "i - iv - VII - iv",
+            "O": "I - V - vi - IV - I - IV - V - I",
+            "S": "i - iv - V - i"
+        },
+        "Middle Eastern Maqam": {
+            "A": "i - iv - v - iv - i",
+            "B": "i - iv - VII - iv",
+            "C": "i - iv - V7 - iv - ii\u00b07 - i",
+            "R": "i - VII7 - i - VII - v\u00b0",
+            "P": "i - II7 - VIaug - V7",
+            "I": "i - II7 - i - vii\u00b0",
+            "O": "i - II7 - i - V - iv - II7 - i - iv - v\u00b0 - i",
+            "S": "i - iv - V7 - iv"
+        },
+        "Andean Music": {
+            "A": "i - IV - V - i - IV - IV7 - v - iv - i",
+            "B": "i - IV - V - i - IV - V7 - i",
+            "C": "ii - V - I - IV - II7 - V7 - I",
+            "R": "i - IV - V - i - V - IV - i",
+            "P": "II - V - i - IV - ii\u00b0 - V7 - i",
+            "I": "i - IV - V - iv",
+            "O": "I - ii - IV - V - I",
+            "S": "i - IV - V7 - ii\u00b07 - V7"
+        },
+        "Sufi Qawwali": {
+            "A": "i - IV - V - iv - ii\u00b0 - V - i",
+            "B": "i - IV - bVII - i",
+            "C": "i - IV - v - VI - iv - VII - i - III7",
+            "R": "i - IV - V - i - IV - V7 - i",
+            "P": "IV - iv - v - ii - I - V7 - I",
+            "I": "i - iv - V7 - iv",
+            "O": "i - III7 - iv - VII7 - i - III7 - iv - VII7",
+            "S": "i - iv - VII7 - iv"
+        },
+        "Balinese Gamelan": {
+            "A": "I - IV - V - I ii - V - I - IV - I - V - IV - I",
+            "B": "i - IV - v\u00b0 - IV",
+            "C": "i - IV - ii - vii\u00b0",
+            "R": "i - ii - iii - ii - i - i\u00b0 - ii",
+            "P": "i - II - III - II",
+            "I": "i - iv - V - iv",
+            "O": "i - iv - v - i - iv - ii\u00b0 - i",
+            "S": "i - iv - v - iv"
+        },
+        "Celtic Folk Ballad": {
+            "A": "i - iv - VII - III - vi - II - V - i",
+            "B": "i - iv - VII - iv - VII - i",
+            "C": "vi - IV - ii - V7",
+            "R": "vi - IV - ii - V7",
+            "P": "ii - V - I - IV - ii - vi - V",
+            "I": "i - iv - V - iv",
+            "O": "i - iv - VII - iv - i",
+            "S": "i - iv - V - ii - I7"
+        },
+        "Persian Traditional": {
+            "A": "i - II7 - V - i",
+            "B": "I - ii - VI - ii - vii\u00b07 - VI - ii - I",
+            "C": "i - II7 - ii\u00b07 - i - IV - V - iv - II7",
+            "R": "i - v - VI - iv - v - i",
+            "P": "i - iv - V - iv",
+            "I": "i - iv - vii\u00b0 - iv",
+            "O": "i - iv - V7 - i - ii\u00b07 - V7 - i",
+            "S": "i - iv - V7 - iv"
+        }
+    },
+    "Experimental & Avant-Garde": {
+        "Atonal Composition": {
+            "A": "i - II7#5#9 - vi\u00b07 - III+ - ivm7b5 - VIaug7 - ii\u00b0 - V7b9",
+            "B": "I - VIaug7 - ii\u00b0 - III7 - IV - vii\u00b07 - V+ - Iaug",
+            "C": "i\u00b0 - IVaug - bII7 - vi\u00b0 - III7b5 - VIIaug - V7#5",
+            "R": "i\u00b07 - III7b5#9 - VIaug7 - ivm7b5 - V7#5b9 - VII\u00f87",
+            "P": "iim7 - VIaug - IV7b9 - V7#9",
+            "I": "Iaug - ii\u00b07 - VI7b5 - III+7 - VIIaug7 - IV#5b9",
+            "O": "IIaug7 - III7b9 - vi\u00b07 - IV7#5 - VI7b5b9 - vii\u00b07 - I7#5b9",
+            "S": "I - vii\u00b0 - iv - II7 - V7#9 - vi\u00b0 - IIIaug7 - IIIaug7#11 - I4"
+        },
+        "Noise Music Soundscape": {
+            "A": "i\u00b0 - IVaug7 - vii\u00b07 - Isus4 - II7#9 - vi\u00b0 - Iaug7 - IV#5#9",
+            "B": "i\u00b07 - IIaug7 - ivm7b5 - vii\u00b07 - i\u00b07 - VI7b9",
+            "C": "ii\u00b07 - V7b9 - iii\u00b0 - vi\u00b0F7 - IVaug7 - vii\u00b07 - I6 - IVaug - vi\u00b07 - IM7#11 - ii\u00b07 - IV6/9",
+            "R": "i\u00b0 - IVaug - vii\u00b07 - V7b9 - ii\u00f8 - Iaug7#9 - i\u00b0 - IVaug - ii\u00b07 - V7 #11 - vii\u00b07 - Iaug9",
+            "P": "i\u00b0 - VIaug7 - iv7b5 - II7#9 - v\u00b07 - III7b9 - viim7b5 - Iaug",
+            "I": "i\u00b0 - II7#9 - vii\u00b07 - Vaug7b5",
+            "O": "ii\u00b07 - V7b9 - vi - IIIaug - ivm7b5 - II7#5",
+            "S": "I - ii\u00b0 - VIaug - ii - I7#9"
+        },
+        "Post-Rock Progression": {
+            "A": "i - iv - i - VII - v - i - VI - III7 - IV7 - v - i",
+            "B": "i - VI - v7 - IV6/9 - iv - ii\u00b07 - III - VIaug7",
+            "C": "iv - V7 - IIIaug - ii - VI7 - ii\u00b07 - I - I6/9",
+            "R": "ii - IV - vi - Iaug - iii7 - IV - V7 - vii\u00b07 - II7 - I6/9",
+            "P": "ii - IVadd9 - iii\u00b07 - V7sus4 - vi - V7b9 - IVadd11 - I6/9",
+            "I": "i - iv - vi - V7",
+            "O": "vi - ii7 - V7 - III7 - iv - Iaug - vi - II7 - i\u00b0 - Iaug",
+            "S": "i - iv - vii\u00b0 - iv"
+        },
+        "Microtonal Experimentation": {
+            "A": "i - iv - ii\u00b0 - vi - iii - V7b5 - i\u00b07 - iiim7b5 - iiVIIaug - I",
+            "B": "i - VI - VIIdim - IIaug - V7b9 - i",
+            "C": "i - ii\u00b0 - VIaug - IV7 - ii\u00b07 - V7b9 - i\u00b07 - Iaug7",
+            "R": "i\u00b0 - II - V7#9 - IVaug",
+            "P": "i - iv\u00b07 - II - V7 - IIIaug - vi - II7#5#9 - iv7b5b9",
+            "I": "i - iv\u00b07 - II7#9 - vii\u00b07 - IIIaug7 - VI7#5b9 - i\u00b07",
+            "O": "i\u00b0 - II7#9 - vii\u00b0 - Iaug - II7#9 - i\u00b0 - vii\u00b0 - Iaug7",
+            "S": "i\u00b0 - IIaug - VIIsus2 - iv7b5"
+        }
+    },
+    "Punk & Hardcore": {
+        "Classic Punk Rock": {
+            "A": "I - IV - V - IV",
+            "B": "I - IV - V - IV",
+            "C": "I - IV - V - II - V - I - IV - V7",
+            "R": "i - IV - V - IV - i",
+            "P": "iv - V - I - II - V",
+            "I": "I - IV - V - IV",
+            "O": "I - IV - V - I - IV - V - II - I",
+            "S": "I - I - vi - IV - V - I"
+        },
+        "Hardcore Punk Breakdown": {
+            "A": "i - IV - V - IV",
+            "B": "i - V - IV - i",
+            "C": "ii - V7 - iv - I",
+            "R": "I - IV - V - IV",
+            "P": "i - IV - V - vi - V - IV - i",
+            "I": "I5 - IV5 - V5 - IV5",
+            "O": "i - V - iv - ii - V - I",
+            "S": "i - IV - V - i"
+        },
+        "Pop Punk Progression": {
+            "A": "I - V - vi - IV",
+            "B": "I - V - vi - IV",
+            "C": "vi - IV - I - V7",
+            "R": "vi - IV - I - V7",
+            "P": "ii - V - I - IV - V7 - I",
+            "I": "I - V - vi - IV",
+            "O": "I - IV - V - IV - I - V - IV - I",
+            "S": "ii - I - V7 - IV"
+        },
+        "Post-Punk Atmosphere": {
+            "A": "i - VI - iii - ii - VII - i",
+            "B": "i - VI - V - iv - III7 - ii - v - i",
+            "C": "ivm7 - VII - v\u00b0 - i - II - ivm7 - i7 - VII7",
+            "R": "ii - iv - Imaj7 - ii - vii\u00b0 - V7",
+            "P": "i - iim7 - V7 - IV7",
+            "I": "i - iv - i - VI - ii - iv - i",
+            "O": "i - VI - III - VII - i - VI - VII - III",
+            "S": "i - im7 - i\u00b0 - ii\u00b07 - i"
+        },
+        "Skate Punk Groove": {
+            "A": "i - IV - V - IV",
+            "B": "I - V - IV - I - IV - V - IV - ii - I",
+            "C": "ii - IV - I7 - IV - V - IV - IV7 - I",
+            "R": "i - IV - V - IV - i",
+            "P": "i - IV - vi - V7",
+            "I": "I - IV - V - IV",
+            "O": "I - IV - V - IV - V - I - IV - I",
+            "S": "i - IV - V - i"
+        }
+    },
+    "Jazz & Blues": {
+        "Gypsy Jazz": {
+            "A": "i - iim7b5 - iiim7 - VI7b9 - iim7 - V7 - i",
+            "B": "ii7 - V7 - I6 - VI7 - ii7 - V7 - I6 - IVaug7",
+            "C": "ii7 - V7 - ii7 - V7 - vii\u00b07 - III7 - vi - ii7 - V7 - Imaj7",
+            "R": "ii7 - V7 - iii7 - VI7 - ii7 - V7 - I6",
+            "P": "ii7 - V7 - iim7 - V7 - Imaj7 - IV7 - V7",
+            "I": "i - II7 - V7 - i6 - II7 - V7 - i6 - ii\u00b07 - V7 - Iaug",
+            "O": "ii7 - V7 - I6 - IIm7 - V7 - I6",
+            "S": "i - iv - V7 - iv - i\u00b0 - V7 - I - V7"
+        },
+        "Acid Jazz": {
+            "A": "ii7 - V7 - Imaj7 - IV7 - viim7b5 - III7#9 - VI7 - II7b5 - V7 - Imaj9",
+            "B": "ii7 - V7 - I7 - IVmaj7 - iii7 - VI7 - ii7 - V7",
+            "C": "II7 - V7 - Imaj9 - VI7 - II7 - V7 - III7 - VI7 - II7 - V7 - Isus4 - I7",
+            "R": "ii7 - V7 - IImaj7 - V7b9 - vi\u00f87 - VI7b9 - ii7 - V7b9",
+            "P": "iiim7 - VImaj7 - ii7 - V7",
+            "I": "ii9 - V7#9 - Imaj7 - IV7#11 - vi7 - II7b9 - V13 - Imaj9",
+            "O": "ii7 - V7 - I6/9 - iv7 - ii7 - V7 - Imaj7",
+            "S": "iim7 - V7 - I\u03949 - VI7 - II\u03949 - V7b9 - iim7 - VI7#5 - II\u03949 - V7b9"
+        },
+        "Free Jazz": {
+            "A": "Imaj7 - II7#5 - III7b9 - IVmaj7#11 - V7b5 - ivm7 - iiim7b5 - IImaj7#11 - V7alt",
+            "B": "IIm7 - V7b9 - Imaj7 - VI7#5 - ii\u00f87 - V7b9 - Imaj13",
+            "C": "ii7 - V7 - iii\u00f8 - VI7b9 - ii7 - V7b5#9 - Imaj7#11",
+            "R": "ii7 - V7b9 - Iaug - III7 - VI7 - ii\u00f8 - V7#9 - Iaug7",
+            "P": "ii7 - V7b9 - iii7 - VI7#11 - ii7 - V7alt - I6/9",
+            "I": "ii7 - V7 - IVmaj7 - iii7 - VI7 - II7 - ii\u00f8 - V7b9 - I6",
+            "O": "ii7 - V7b9 - Imaj9 - v\u00f87 - IV7#11 - III7b9 - viim7b5 - IM7#11",
+            "S": "ii7b5 - V7#9 - i - VI7b9 - ii7b5 - V7#9 - i - VI7b9"
+        },
+        "New Orleans Jazz": {
+            "A": "I7 - IV7 - ii7 - V7 - I7 - VI7 - ii7 - V7 - I7",
+            "B": "II7 - V7 - I7 - VI7 - II7 - V7 - I7",
+            "C": "II7 - V7 - I7 - VI7 - II7 - V7 - I7 - VI7 - II7 - V7 - I7 - Imaj7",
+            "R": "ii7 - V7 - viim7b5 - III7 - VI7 - ii7 - V7 - I7",
+            "P": "ii7 - V7 - I7 - VI7 - ii7 - V7 - I7",
+            "I": "I6 - IV7 - ii7 - V7",
+            "O": "II7 - V7 - I6 - V7/9 - I6/9 - IV7 - IIm7 - V9 - I6/9 - IV7 - V7 - IM7",
+            "S": "I7 - IV7 - V7 - I7 - IVdim7 - II7sus4 - II7 - V7#9"
+        },
+        "Hard Bop": {
+            "A": "ii7 - V7 - I7 - IV7 - iii7 - VI7 - ii7 - V7",
+            "B": "iim7 - V7 - Imaj7 - vi7 - ii\u00f87 - V7alt - Imaj7 - IV7 - iiim7 - VI7 - IImaj7 - V7",
+            "C": "ii7 - V7 - I7 - viim7b5 - iiim7 - VI7 - ii7 - V7 - I7",
+            "R": "ii7 - V7 - vi7 - III7 - vi7 - II7 - V7 - I7",
+            "P": "ii7 - V7 - IImaj7 - V7#9",
+            "I": "ii7 - V7 - I7 - IVmaj7",
+            "O": "II7 - V7 - Imaj7 - VI7 - II7 - V7 - Imaj7",
+            "S": "ii7 - V7 - IImaj7 - ii7b5 - V7#9 - Imaj7"
+        },
+        "Swing Revival": {
+            "A": "I6 - II7 - V7 - I6",
+            "B": "ii7 - V7 - Imaj7 - VI7 - ii7 - V7 - Imaj7 - IVmaj7 - V7",
+            "C": "II7 - V7 - I6 - VI7 - II7 - V7 - I6 - III7 - VI7 - II7 - V7 - I6",
+            "R": "ii7 - V7 - IImaj7 - V7b9 - I",
+            "P": "ii7 - V7 - vi7 - ii7b5 - V7 - I7 - VI7 - II7 - V7",
+            "I": "I6 - II7 - iiim7 - VI7 - II7 - V7 - I6",
+            "O": "II7 - V7 - Imaj7 - VI7 - II7 - V7 - Imaj7",
+            "S": "ii7 - V7 - I6 - vi - II7 - V7 - Isus4 - I7"
+        },
+        "Jump Blues": {
+            "A": "I7 - IV7 - I7 - IV7 - I7 - IV7 - V7 - IV7 - I7",
+            "B": "ii7 - V7 - I7 - VI7 - ii7 - V7 - I7 - IV7 - V7",
+            "C": "II7 - V7 - I7 - IV7 - II7 - V7 - I7 - IV7",
+            "R": "ii7 - V7 - IImaj7 - V7b9",
+            "P": "ii7 - V7 - I7 - IV7 - I7 - IV7 - V7",
+            "I": "I7 - IV7 - I7 - I7 - IV7 - IV7 - I7 - III7 - VI7 - II7 - V7 - I7 - VI7 - II7 - V7",
+            "O": "I7 - IV7 - V7 - I7 - II7 - V7 - I7",
+            "S": "ii7 - V7 - I7 - II7 - V7 - Isus4 - I7"
+        },
+        "Chicago Blues": {
+            "A": "I7 - IV7 - I7 - I7 - IV7 - IV7 - I7 - I7 - V7 - IV7 - I7 - V7",
+            "B": "I - IV - IV7 - I - VI7 - II7 - V7 - I7 - IV7 - I - IV - V7",
+            "C": "II7 - V7 - I7 - IV7 - IVdim7 - I7 - V7 - I7#9",
+            "R": "IV7 - #IVdim7 - V7 - I7 - IV7 - iii\u00b07 - ii7 - V7",
+            "P": "ii7 - V7 - I7 - IV7 - I7 - ii7 - V7",
+            "I": "I7 - IV7 - I7 - I7",
+            "O": "I - IV - I7 - IV7 - I - V7 - IV7 - I",
+            "S": "i7 - IV7 - V7 - i7 - IV7 - i7"
+        },
+        "Piedmont Blues": {
+            "A": "I7 - IV7 - I7 - IV7 - I7 - V7 - IV7 - I7 - V7",
+            "B": "I - IV - ii7 - V7 - I - IV - V7 - I",
+            "C": "ii7 - V7 - Imaj7 - IV7 - V7 - I7 - IV7 - V7",
+            "R": "ii7 - V7 - IImaj7 - V7b9",
+            "P": "ii7 - V7 - I7 - IV7 - ii7 - V7",
+            "I": "I7 - IV7 - I7 - I7 - IV7 - IV7 - I7 - VI7 - ii7 - V7",
+            "O": "I - IV - V - IV - I - II7 - V7 - I",
+            "S": "i7 - iv7 - v7 - iv7"
+        },
+        "West Coast Blues": {
+            "A": "I7 - IV7 - II7 - V7",
+            "B": "ii7 - V7 - I7 - IV7 - ivm7 - I7#5 - ii7 - V7",
+            "C": "II7 - V7 - I7 - IV7 - #iv\u00b07 - II7 - V7 - I7",
+            "R": "II7 - V7 - I7 - VI7 - II7 - V7",
+            "P": "ii7 - V7 - I7 - IV7 - #ivdim7 - V7b9",
+            "I": "I7 - IV7 - II7 - V7",
+            "O": "ii7 - V7 - I7 - IV7 - ii7 - V7 - I7 - Imaj7",
+            "S": "ii7 - V7 - I7 - IV7 - ivm7b5 - I7#9 - ii7 - V7#9"
+        }
+    },
+    "Miscellaneous": {
+        "Lo-Fi House": {
+            "A": "i - IV7 - vii\u00b0 - III7 - VI7 - ii - v - i",
+            "B": "ii7 - V7 - I - VI7 - ii7 - V7 - III7 - IVmaj7",
+            "C": "ii7 - V9 - I6 - IVmaj7 - vii\u00b07 - iii7 - VI7 - II7",
+            "R": "ii7 - iv7 - vii\u00b0 - V7 - iii7 - vi7 - V7",
+            "P": "ii - V9 - iii7 - vi - IV7 - ii - V7 - I",
+            "I": "iim7 - V9 - I7 - IVmaj7",
+            "O": "ii7 - V9 - I6/9 - IVadd9 - V7#9 - I6/9 - ii7 - V7 - I6/9",
+            "S": "i - VI7 - i - vii\u00b07"
+        },
+        "Chiptune (8-Bit Music)": {
+            "A": "I - IV - V - IV - ii - V - IV - I",
+            "B": "I - VI - IV - V - I - IV - V - I",
+            "C": "ii - iv - V7 - III7 - vi - ii - V - I",
+            "R": "I - ii - vi - IV - V - I - IV - V7",
+            "P": "iv - ii - V - I - IV - V7 - I",
+            "I": "I - ii - IV - V",
+            "O": "i - IV - V - i - VI - ii - V - i",
+            "S": "iim7 - V7 - Isus4 - IV - I7 - vi - V7 - IV - iv"
+        },
+        "Vaporwave": {
+            "A": "i - VI - III7 - VII - VI7 - iv7 - I7 - ii7 - VImaj7 - iv7 - Iaug7",
+            "B": "i - iv7 - VII - v - iv7 - VII - iv7 - III7 - ii7",
+            "C": "ii9 - vi7 - III7#9 - IVmaj7 - V7sus4 - vi9 - Isus2 - IV6/9",
+            "R": "ii7 - IVmaj7 - V7 - vi - IVmaj7 - II7 - V7 - I6/9",
+            "P": "ii - IV - vi - V7",
+            "I": "iim7 - IVmaj7 - vi7 - IVmaj7 - I9",
+            "O": "ii9 - IV7 - Isus2 - vi7 - IIImaj7 - vi7 - IV - ii9 - IVadd9",
+            "S": "i - IV - v\u00b0 - IV"
+        },
+        "Synthwave Darkwave Hybrid": {
+            "A": "i - iv - VI - III - VII - iv - i",
+            "B": "i - VI - III - VII - IV - v - iv - i",
+            "C": "ii - vi - IV - ii - VImaj7 - vii\u00b0 - IV - iv",
+            "R": "i - VI - III - vii\u00b0 - ii - V - i",
+            "P": "ii - v - IV - iv7 - Iadd9",
+            "I": "i - VII - VI - v7",
+            "O": "vi - IV - I - V - vii\u00b0 - IV - ii - V",
+            "S": "vi - ii\u00b07 - V7 - ii - i"
+        },
+        "Neoclassical Darkwave": {
+            "A": "i - v - iv - III7 - vii\u00b0 - iv",
+            "B": "i - VI - III7 - VI - vii\u00b07 - i",
+            "C": "vi - V7 - i - i\u00b0 - V7 - iv - IIIaug7 - VI7 - V7 - i",
+            "R": "vi - iv\u00b07 - I - V7/vi - vi",
+            "P": "ii - vii\u00b0 - III7 - VImaj7 - IV - V7",
+            "I": "i - i\u00b0 - VI - V7",
+            "O": "i - VI - IV - v7 - i - VI - III - ii\u00b07",
+            "S": "i - iv\u00b0 - VII - iv\u00b0"
+        },
+        "Ambient Drone": {
+            "A": "i - i - i - i",
+            "B": "i - iv - v - iv",
+            "C": "i - i - ii\u00b0 - ii\u00b0 - i",
+            "R": "i - iv - vi - iv",
+            "P": "i - i - ii - iim7",
+            "I": "i - iv - ii - vii\u00b0",
+            "O": "i - iv - v - iv",
+            "S": "i - i - iv - i - v - i - iv - iv"
+        },
+        "Noise Pop": {
+            "A": "i - IV - vii\u00b0 - IV",
+            "B": "I - ii - IVmaj7 - V7 - IV - iii - IV - ii7 - Iaug",
+            "C": "ii - V7 - vi - ii\u00b07 - V7 - Iaug",
+            "R": "ii - V7 - IV - I7 - vi - V7 - IV - ii\u00b0",
+            "P": "ii - V7 - vi - IV",
+            "I": "i - iv - ii - v7",
+            "O": "i - iii7 - VI9 - ii - IV - V7 - vi - Iaug - ii7 - IVaug7 - I7",
+            "S": "i - IV - V - ii\u00b07 - vi - III - IV7 - ii - V7 - i"
+        },
+        "Glitch Music": {
+            "A": "i - III7 - ii\u00f8 - vii\u00b0 - IV - IVaug - vii\u00b0 - I7#9",
+            "B": "I - vi - IV - ii\u00b07 - V - I7 - IV - ii7 - V7",
+            "C": "i\u00b07 - IVaug7 - V7b9 - ii\u00b07 - III+7 - viim7b5 - i7#9",
+            "R": "i - vi - IV - ii\u00b07 - V7 - vii\u00b0 - IIIaug - VI7 - ii\u00b07 - i",
+            "P": "vi - iv - ii\u00b07 - V7 - iv - iii7 - vi - V7",
+            "I": "i - VII7 - iv6 - ii\u00b07 - v - i",
+            "O": "i - VI7 - iv\u00b0 - ii - V7 - i",
+            "S": "I - vi - IV - ii - V7 - Isus2 - IV - vii\u00b07"
+        },
+        "Plunderphonics": {
+            "A": "i - VI7 - iv - V7 - ii7 - iv - V7 - i",
+            "B": "I7 - iii\u00b0 - VI7 - II7 - V7 - I7 - IVmaj7 - vii\u00b07 - V7",
+            "C": "ii7 - V7 - III7 - VI7 - II7b5 - V7b9 - i7 - IV7#5",
+            "R": "ii7 - V7 - vi - IV - II7 - Vaug - I7 - iv7",
+            "P": "vi - ii7 - V7 - vii\u00b0",
+            "I": "ii7 - V7 - I6 - IVmaj7 - ii7 - V7 - im7 - IVmaj7",
+            "O": "ii - IV7 - vi - ii7 - V - I7",
+            "S": "i\u00b0 - V7 - IV - i\u00b07 - V7#9 - iii\u00b0 - IV - V7b9"
+        },
+        "Dreampunk": {
+            "A": "i - VII - VI - IIIaug7 - II7 - i",
+            "B": "iii - vii\u00b0 - I9 - IVmaj7 - vi - ii - V7 - I9",
+            "C": "ii - IVmaj7 - ii9 - vi - IVmaj7 - I9",
+            "R": "ii7 - V7 - III7 - vii\u00b07 - Iaug",
+            "P": "ii - IVmaj7 - vi - V7",
+            "I": "iv - ii - Isus2 - vim7 - VImaj7 - ii7 - iii - IVadd9",
+            "O": "vi - II7 - vi - iv - IImaj7 - II7 - vi - IImaj7 - vi - IVadd9 - ii\u00f8 - I",
+            "S": "I - ii9 - IV - vii\u00b07 - Vadd9 - I"
+        }
+    }
+}

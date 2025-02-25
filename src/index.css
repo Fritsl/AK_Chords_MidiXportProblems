@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-[#1F1F1F] text-[#E0E0E0] font-sans antialiased;
+  }
+
+  /* Custom scrollbar styling */
+  ::-webkit-scrollbar {
+    height: 6px;
+    width: 6px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: #1F1F1F;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #4A4A4A;
+    border-radius: 3px;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #666666;
+  }
+
+  /* Hide scrollbar when not needed */
+  .hide-scrollbar {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  
+  .hide-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-[#FFC107] text-[#1F1F1F] px-4 py-2 transition-colors hover:bg-[#FFD54F];
+  }
+
+  .btn-secondary {
+    @apply bg-[#03A9F4] text-white px-4 py-2 transition-colors hover:bg-[#29B6F6];
+  }
+
+  .btn-tertiary {
+    @apply bg-[#4CAF50] text-white px-4 py-2 transition-colors hover:bg-[#66BB6A];
+  }
+
+  .surface-secondary {
+    @apply bg-[#2A2A2A];
+  }
+
+  .surface-tertiary {
+    @apply bg-[#2E2E2E];
+  }
+
+  .text-secondary {
+    @apply text-[#B0B0B0];
+  }
+
+  .text-disabled {
+    @apply text-[#808080];
+  }
+}
+
+@layer utilities {
+  .text-shadow {
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+  }
+}
