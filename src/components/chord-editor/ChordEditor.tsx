@@ -35,21 +35,38 @@ const ChordEditor: React.FC<ChordEditorProps> = ({
   }, [timeSignature, numBars]);
 
   const handleExportMidi = async () => {
-    if (!pattern || pattern.length === 0) return;
+    if (!pattern || pattern.length === 0) {
+      console.error('No pattern data available');
+      return;
+    }
     
     setIsExporting(true);
     try {
+      console.log('Generating MIDI with:', {
+        pattern,
+        timeSignature,
+        blockName: selectedBlockName,
+        dividers
+      });
+      
       const midiData = generateMidiFile(
         pattern,
         timeSignature,
-        120, // Use actual BPM here
+        120,
         selectedBlockName || 'Unknown',
         dividers
       );
+      
+      if (!midiData) {
+        throw new Error('No MIDI data generated');
+      }
+      
       const fileName = `${selectedBlockName || 'block'}_rhythm.mid`;
-      downloadMidi(fileName, midiData);
+      await downloadMidi(fileName, midiData);
     } catch (error) {
       console.error('Failed to export MIDI:', error);
+      // You might want to show this error to the user
+      alert('Failed to export MIDI file. Check console for details.');
     } finally {
       setIsExporting(false);
     }
