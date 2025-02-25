@@ -1,0 +1,50 @@
+[plugin:vite:esbuild] Transform failed with 4 errors:
+/home/runner/workspace/src/utils/midiExport.ts:66:16: ERROR: Multiple exports with the same name "generateMidiFile"
+/home/runner/workspace/src/utils/midiExport.ts:66:16: ERROR: The symbol "generateMidiFile" has already been declared
+/home/runner/workspace/src/utils/midiExport.ts:134:16: ERROR: Multiple exports with the same name "downloadMidi"
+/home/runner/workspace/src/utils/midiExport.ts:134:16: ERROR: The symbol "downloadMidi" has already been declared
+
+/home/runner/workspace/src/utils/midiExport.ts:66:16
+
+Multiple exports with the same name "generateMidiFile"
+64 |  const NOTE_PITCH = 60; // Middle C
+65 |  
+66 |  export function generateMidiFile(
+   |                  ^
+67 |    pattern: ('on' | 'off')[],
+68 |    timeSignature: string = '4/4',
+
+The symbol "generateMidiFile" has already been declared
+64 |  const NOTE_PITCH = 60; // Middle C
+65 |  
+66 |  export function generateMidiFile(
+   |                  ^
+67 |    pattern: ('on' | 'off')[],
+68 |    timeSignature: string = '4/4',
+
+Multiple exports with the same name "downloadMidi"
+132|  }
+133|  
+134|  export function downloadMidi(fileName: string, data: Uint8Array): void {
+   |                  ^
+135|    try {
+136|      if (!data || data.length === 0) {
+
+The symbol "downloadMidi" has already been declared
+132|  }
+133|  
+134|  export function downloadMidi(fileName: string, data: Uint8Array): void {
+   |                  ^
+135|    try {
+136|      if (!data || data.length === 0) {
+
+    at failureErrorWithLog (/home/runner/workspace/node_modules/esbuild/lib/main.js:1472:15)
+    at /home/runner/workspace/node_modules/esbuild/lib/main.js:755:50
+    at responseCallbacks.<computed> (/home/runner/workspace/node_modules/esbuild/lib/main.js:622:9)
+    at handleIncomingPacket (/home/runner/workspace/node_modules/esbuild/lib/main.js:677:12)
+    at Socket.readFromStdout (/home/runner/workspace/node_modules/esbuild/lib/main.js:600:7)
+    at Socket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:191:23
