@@ -20,6 +20,10 @@ export function generateMidiFile(
     }
 
     // Create a new MIDI file with one track
+    if (!Midi || !Midi.File || !Midi.Track) {
+      throw new Error('MIDI library not properly initialized');
+    }
+    
     const file = new Midi.File();
     const track = new Midi.Track();
     file.addTrack(track);
@@ -80,6 +84,7 @@ export function downloadMidi(fileName: string, data: number[]): void {
     window.URL.revokeObjectURL(url);
   } catch (error) {
     console.error('Error downloading MIDI file:', error);
+    throw error; // Re-throw to allow proper error handling upstream
     throw error;
   }
 }
