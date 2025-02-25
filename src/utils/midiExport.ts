@@ -2,6 +2,54 @@ import { Note } from 'tonal';
 // @ts-ignore - jsmidgen doesn't have types
 import Midi from 'jsmidgen';
 
+export const generateMidiFile = (
+  pattern: ('on' | 'off')[],
+  timeSignature: string,
+  tempo: number,
+  name: string,
+  dividers: boolean[]
+) => {
+  try {
+    const file = new Midi.File();
+    const track = new Midi.Track();
+    file.addTrack(track);
+
+    // Set tempo
+    track.setTempo(tempo);
+
+    // Convert time signature from string (e.g. "4/4") to numbers
+    const [numerator, denominator] = timeSignature.split('/').map(Number);
+    track.setTimeSignature(numerator, Math.log2(denominator));
+
+    // Add notes based on pattern
+    pattern.forEach((value, index) => {
+      if (value === 'on') {
+        // Add a note with velocity 127 (max) for 1/4 note duration
+        track.addNote(0, 'C4', 128);
+      } else {
+        // Add a rest for 1/4 note duration
+        track.noteOff(0, 'C4', 128);
+      }
+    });
+
+    return file.toBytes();
+  } catch (error) {
+    console.error('Error generating MIDI file:', error);
+    throw error;
+  }
+};
+
+export const downloadMidi = (fileName: string, midiData: number[]) => {
+  const buffer = new Uint8Array(midiData);
+  const blob = new Blob([buffer], { type: 'audio/midi' });
+  const url = window.URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = fileName;
+  a.click();
+  window.URL.revokeObjectURL(url);
+};
+
 interface RhythmData {
   pattern: ('on' | 'off')[];
   timeSignature: string;
